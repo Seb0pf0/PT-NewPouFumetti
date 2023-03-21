@@ -1,1 +1,1 @@
-targetRoom = pinball_5;
+targetRoom = kungfu_4;
