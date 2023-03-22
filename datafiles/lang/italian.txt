@@ -181,7 +181,7 @@ option_no = "NO"
 option_master = "TUTTO"
 option_music = "MUSICA"
 option_sfx = "EFFETTI SONORI"
-option_unfocus = "MUTO FUORI FINISETRA"
+option_unfocus = "MUTO FUORI FINESTRA"
 
 option_fullscreen = "SCHERMO INTERO"
 option_exclusive = "ESCLUSIVO"

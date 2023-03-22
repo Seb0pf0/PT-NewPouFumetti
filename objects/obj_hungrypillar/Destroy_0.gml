@@ -76,6 +76,9 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 		case freezer_escape1:
 			global.fill = 2640;
 			break;
+			case kungfu_10:
+			global.fill = 2640;
+			break;
 		case chateau_9:
 			lay = layer_get_id("Backgrounds_stillH1");
 			layer_background_sprite(layer_background_get_id(lay), spr_chateaudarkbg_escape);
@@ -175,10 +178,7 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 			global.minutes = 3;
 			global.seconds = 59;
 			break;
-		case pinball_17:
-			global.minutes = 3;
-			global.seconds = 12;
-			break;
+		
 		case beach_13:
 			global.minutes = 3;
 			global.seconds = 30;
