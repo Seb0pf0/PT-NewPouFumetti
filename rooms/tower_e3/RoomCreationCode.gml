@@ -1,2 +1,3 @@
 pal_swap_init_system(shd_pal_swapper);
 global.roommessage = "WITCH OVEN"
+global.gameframe_caption_text = "Cookies and Pizzas don't get well together";

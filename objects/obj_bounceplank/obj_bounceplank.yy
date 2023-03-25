@@ -4,6 +4,7 @@
   "name": "obj_bounceplank",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bounceplank",
-    "path": "sprites/spr_bounceplank/spr_bounceplank.yy",
+    "name": "spr_tomatoblock",
+    "path": "sprites/spr_tomatoblock/spr_tomatoblock.yy",
   },
   "spriteMaskId": null,
   "visible": true,

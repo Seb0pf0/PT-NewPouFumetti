@@ -1,1 +1,2 @@
-targetRoom = top_7;
+targetRoom = tower_pizzafacehall;
+targetDoor = "F"

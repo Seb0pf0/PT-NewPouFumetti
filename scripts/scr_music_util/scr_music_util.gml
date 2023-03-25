@@ -92,6 +92,7 @@ function hub_state(_room, _sound, _secretsound)
 		case tower_cheftask5:
 		case tower_laundryroom:
 		case tower_mansion:
+		case tower_top:
 			s = 4;
 			break;
 	}

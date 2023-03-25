@@ -79,7 +79,7 @@ add_music(medieval_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecre
 			break
 		case medieval_3:
 		case medieval_5:
-			s = 0
+			s = 1
 			break
 		case medieval_6:
 			s = 2
@@ -235,3 +235,4 @@ add_music(street_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0,
 add_music(chateau_1, "event:/music/w5/chateau", "event:/music/w1/medievalsecret", 0)
 add_music(kidsparty_1, "event:/music/w5/kidsparty", "event:/music/w5/kidspartysecret", 0)
 add_music(war_1, "event:/music/w5/war", "event:/music/w5/warsecret", 0)
+add_music(top_2, "event:/music/w5/chateau", "event:/music/w1/medievalsecret", 0)
