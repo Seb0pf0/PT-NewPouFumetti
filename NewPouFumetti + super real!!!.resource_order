@@ -87,6 +87,7 @@
     {"name":"spr_ramp","order":100,"path":"sprites/spr_ramp/spr_ramp.yy",},
     {"name":"spr_sidespringblock_bounce","order":99,"path":"sprites/spr_sidespringblock_bounce/spr_sidespringblock_bounce.yy",},
     {"name":"spr_cowkick","order":98,"path":"sprites/spr_cowkick/spr_cowkick.yy",},
+    {"name":"tower_arcade","order":23,"path":"rooms/tower_arcade/tower_arcade.yy",},
     {"name":"spr_taxicop","order":97,"path":"sprites/spr_taxicop/spr_taxicop.yy",},
     {"name":"spr_frozenblock","order":96,"path":"sprites/spr_frozenblock/spr_frozenblock.yy",},
     {"name":"spr_thunder","order":94,"path":"sprites/spr_thunder/spr_thunder.yy",},

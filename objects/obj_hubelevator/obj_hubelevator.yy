@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_doorvisited",
-    "path": "sprites/spr_doorvisited/spr_doorvisited.yy",
+    "name": "spr_elevatoropen",
+    "path": "sprites/spr_elevatoropen/spr_elevatoropen.yy",
   },
   "spriteMaskId": null,
   "visible": true,

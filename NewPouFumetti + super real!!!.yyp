@@ -4207,6 +4207,7 @@
     {"id":{"name":"spr_playerN_mach2jump","path":"sprites/spr_playerN_mach2jump/spr_playerN_mach2jump.yy",},},
     {"id":{"name":"spr_playerN_timesup","path":"sprites/spr_playerN_timesup/spr_playerN_timesup.yy",},},
     {"id":{"name":"spr_playerN_deathstart","path":"sprites/spr_playerN_deathstart/spr_playerN_deathstart.yy",},},
+    {"id":{"name":"tower_arcade","path":"rooms/tower_arcade/tower_arcade.yy",},},
     {"id":{"name":"spr_parryhitbox2","path":"sprites/spr_parryhitbox2/spr_parryhitbox2.yy",},},
     {"id":{"name":"spr_playerN_deathend","path":"sprites/spr_playerN_deathend/spr_playerN_deathend.yy",},},
     {"id":{"name":"spr_playerN_machpunch1","path":"sprites/spr_playerN_machpunch1/spr_playerN_machpunch1.yy",},},
@@ -8043,6 +8044,7 @@
     {"roomId":{"name":"tower_e3","path":"rooms/tower_e3/tower_e3.yy",},},
     {"roomId":{"name":"tower_soc","path":"rooms/tower_soc/tower_soc.yy",},},
     {"roomId":{"name":"kungfu_8","path":"rooms/kungfu_8/kungfu_8.yy",},},
+    {"roomId":{"name":"tower_arcade","path":"rooms/tower_arcade/tower_arcade.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},
