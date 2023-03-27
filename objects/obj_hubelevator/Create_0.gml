@@ -9,6 +9,7 @@ hub_array[5] = [tower_4, "FLOOR 4"];
 hub_array[6] = [tower_e3, "FLOOR EX3"];
 hub_array[7] = [tower_5, "FLOOR 5"];
 hub_array[8] = [tower_soc, "CHAMPION"];
+hub_array[9] = [rm_levelselect, "SELECT ZONE"]
 isgustavo = false;
 playerid = -4;
 selected = 0;

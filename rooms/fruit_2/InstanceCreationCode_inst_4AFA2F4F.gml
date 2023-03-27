@@ -1,0 +1,1 @@
+targetRoom = fruit_1

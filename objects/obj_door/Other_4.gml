@@ -31,6 +31,9 @@ if (sprite_index == spr_cheftaskdoor)
 			arr = ["badland1", "badland2", "badland3", "graveyard1", "graveyard2", "graveyard3", "farm1", "farm2", "farm3", "saloon1", "saloon2", "saloon3", "sranks2", "vigilante"];
 			break;
 		case tower_3:
+		case tower_e1:
+		case tower_e2:
+		case tower_e3:
 		case tower_cheftask3:
 			arr = ["plage1", "plage2", "plage3", "forest1", "forest2", "forest3", "space1", "space2", "space3", "minigolf1", "minigolf2", "minigolf3", "sranks3", "noise"];
 			break;
