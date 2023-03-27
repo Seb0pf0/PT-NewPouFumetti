@@ -411,6 +411,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Seacon","folderPath":"folders/Rooms/Levels/Seacon.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Oven","folderPath":"folders/Rooms/Levels/Oven.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},
@@ -5271,6 +5273,7 @@
     {"id":{"name":"sprite12242012","path":"sprites/sprite12242012/sprite12242012.yy",},},
     {"id":{"name":"bg_freezer1","path":"sprites/bg_freezer1/bg_freezer1.yy",},},
     {"id":{"name":"bg_freezer2","path":"sprites/bg_freezer2/bg_freezer2.yy",},},
+    {"id":{"name":"seacon_1","path":"rooms/seacon_1/seacon_1.yy",},},
     {"id":{"name":"bg_freezer3","path":"sprites/bg_freezer3/bg_freezer3.yy",},},
     {"id":{"name":"spr_pigcitizen_panicF","path":"sprites/spr_pigcitizen_panicF/spr_pigcitizen_panicF.yy",},},
     {"id":{"name":"spr_flush_idle","path":"sprites/spr_flush_idle/spr_flush_idle.yy",},},
@@ -6969,6 +6972,7 @@
     {"id":{"name":"spr_enguardehitbox","path":"sprites/spr_enguardehitbox/spr_enguardehitbox.yy",},},
     {"id":{"name":"spr_medievalinterior","path":"sprites/spr_medievalinterior/spr_medievalinterior.yy",},},
     {"id":{"name":"spr_pizzasona27","path":"sprites/spr_pizzasona27/spr_pizzasona27.yy",},},
+    {"id":{"name":"oven_intro1","path":"rooms/oven_intro1/oven_intro1.yy",},},
     {"id":{"name":"spr_monstershroom_chase","path":"sprites/spr_monstershroom_chase/spr_monstershroom_chase.yy",},},
     {"id":{"name":"spr_antsy","path":"sprites/spr_antsy/spr_antsy.yy",},},
     {"id":{"name":"spr_pizzahead_ratballthrow","path":"sprites/spr_pizzahead_ratballthrow/spr_pizzahead_ratballthrow.yy",},},
@@ -8046,6 +8050,8 @@
     {"roomId":{"name":"tower_soc","path":"rooms/tower_soc/tower_soc.yy",},},
     {"roomId":{"name":"kungfu_8","path":"rooms/kungfu_8/kungfu_8.yy",},},
     {"roomId":{"name":"tower_arcade","path":"rooms/tower_arcade/tower_arcade.yy",},},
+    {"roomId":{"name":"seacon_1","path":"rooms/seacon_1/seacon_1.yy",},},
+    {"roomId":{"name":"oven_intro1","path":"rooms/oven_intro1/oven_intro1.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},

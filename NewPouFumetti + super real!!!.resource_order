@@ -53,6 +53,8 @@
     {"name":"Totem","order":139,"path":"folders/Sprites/Level Structure/Totem.yy",},
     {"name":"Tower","order":140,"path":"folders/Sprites/Level Structure/Tower.yy",},
     {"name":"Warps","order":141,"path":"folders/Sprites/Level Structure/Warps.yy",},
+    {"name":"Seacon","order":22,"path":"folders/Rooms/Levels/Seacon.yy",},
+    {"name":"Oven","order":23,"path":"folders/Rooms/Levels/Oven.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_rattumble","order":18,"path":"objects/obj_rattumble/obj_rattumble.yy",},
