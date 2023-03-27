@@ -114,6 +114,8 @@ if (global.panic)
 	draw_set_valign(1);
 	draw_set_font(global.bigfont);
 	draw_text(timer_x + 153, timer_y + 18, concat(minutes, ":", seconds));
+	if (global.lap = true)
+	draw_text(timer_x + 230, timer_y - 20, concat("LAP", global.laps))
 }
 else if (surface_exists(bar_surface))
 	surface_free(bar_surface);

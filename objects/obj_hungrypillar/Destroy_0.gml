@@ -136,7 +136,7 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 	instance_create(x, y + 600, obj_itspizzatime);
 	global.panic = true;
 	
-	switch room // how do you fuck this up
+	switch room // how do you fuck this up (old pillar system [secs and mins])
 	{
 		case entrance_10:
 			global.minutes = 2;
