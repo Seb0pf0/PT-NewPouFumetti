@@ -5,6 +5,6 @@
  
  For now this is mod is worked on only by Cyan
 
-Since the bank file is too big for Github you can download it here https://drive.google.com/file/d/1jxJt-AknLQ_SYCKqRm32JjPXrCjQ7eHR/view?usp=sharing
+Since the bank file is too big for Github just use the vanilla pt one
 
 Be sure to place it in datafiles/sound/Desktop
