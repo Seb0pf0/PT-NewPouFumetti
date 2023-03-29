@@ -116,11 +116,36 @@ add_music(badland_1, "event:/music/w2/desert", "event:/music/w2/desertsecret", 0
 	s = -1
 	switch room
 	{
+		case desert_1:
 		case badland_1:
 		case badland_8b:
 		case badland_10:
 			s = 0
 			break
+		case desert_12:
+		case badland_9:
+		case badland_mart4:
+			s = 1
+			break
+	}
+
+	if (s != -1)
+		fmod_event_instance_set_parameter(event, "state", s, 1)
+	return;
+}
+)
+add_music(desert_1, "event:/music/w2/desert", "event:/music/w2/desertsecret", 0, function(room, event) //anon_gml_Object_obj_music_Create_0_4446_gml_Object_obj_music_Create_0
+{
+	s = -1
+	switch room
+	{
+		case desert_1:
+		case badland_1:
+		case badland_8b:
+		case badland_10:
+			s = 0
+			break
+		case desert_12:
 		case badland_9:
 		case badland_mart4:
 			s = 1

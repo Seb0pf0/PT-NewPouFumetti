@@ -1,1 +1,1 @@
-text = "this place wont be made until i finish the other stuff sorry"
+text = "this place wont be made until i\n finish the other stuff sorry"
