@@ -1,7 +1,13 @@
 if (obj_player1.key_up2)
 {
-	if (obj_player1.paletteselect < 6)
-		obj_player1.paletteselect += 1;
-	else
-		obj_player1.paletteselect = 1;
+	if (obj_player1.ispeppino = 1)
+	{
+		obj_player1.ispeppino = 0
+		obj_player1.palette =0
+	}
+	else 
+	{
+	obj_player1.ispeppino = 1
+		obj_player1.palette = 1;
+ }
 }
