@@ -5,6 +5,7 @@
 ready = false;
 
 alarm[0] = room_speed * 5;
+alarm[1] = room_speed * 6;
 
 if (!np_initdiscord(DISCORD_APP_ID, true, np_steam_app_id_empty))
 {

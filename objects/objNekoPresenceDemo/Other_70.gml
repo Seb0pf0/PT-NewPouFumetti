@@ -18,7 +18,7 @@ if (ev_type == "DiscordReady")
 	// DISCORD_MAX_BUTTONS == 2, so only allowed IDs are 0 and 1.
 	
 	//np_setpresence() should ALWAYS come the last!!
-	np_setpresence("Testing crap lmao", global.roommessage);
+	np_setpresence(global.roommessage, "Upper text", "astraicon", "");
 	
 	// passing a URL will add this sprite asynchronously via *internets*
 	sprite_add(np_get_avatar_url(async_load[? "user_id"], async_load[? "avatar"]), 1, false, false, 0, 0);
