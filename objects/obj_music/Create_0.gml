@@ -114,6 +114,7 @@ add_music(ruin_1, "event:/music/w1/ruin", "event:/music/w1/ruinsecret", 0, funct
 }
 )
 add_music(dungeon_1, "event:/music/w1/dungeon", "event:/music/w1/dungeonsecret", 0)
+add_music(strongcold_10, "event:/music/w1/dungeon", "event:/music/w1/dungeonsecret", 0)
 add_music(badland_1, "event:/music/w2/desert", "event:/music/w2/desertsecret", 0, function(room, event) //anon_gml_Object_obj_music_Create_0_4446_gml_Object_obj_music_Create_0
 {
 	s = -1

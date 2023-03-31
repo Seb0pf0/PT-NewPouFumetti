@@ -1,1 +1,1 @@
-targetRoom = strongcold_miniboss;
+targetRoom = strongcold_1;
