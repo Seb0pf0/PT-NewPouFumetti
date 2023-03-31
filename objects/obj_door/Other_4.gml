@@ -24,6 +24,7 @@ if (sprite_index == spr_cheftaskdoor)
 	{
 		case tower_1:
 		case tower_cheftask1:
+		case tower_top:
 			arr = ["entrance1", "entrance2", "entrance3", "medieval1", "medieval2", "medieval3", "ruin1", "ruin2", "ruin3", "dungeon1", "dungeon2", "dungeon3", "sranks1", "pepperman"];
 			break;
 		case tower_2:

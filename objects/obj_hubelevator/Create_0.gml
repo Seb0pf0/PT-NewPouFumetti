@@ -8,8 +8,8 @@ hub_array[4] = [tower_e2, "FLOOR EX2"];
 hub_array[5] = [tower_4, "FLOOR 4"];
 hub_array[6] = [tower_e3, "FLOOR EX3"];
 hub_array[7] = [tower_5, "FLOOR 5"];
-hub_array[8] = [tower_soc, "CHAMPION"];
-hub_array[9] = [rm_levelselect, "SELECT ZONE"]
+hub_array[8] = [tower_top, "TOP"];
+hub_array[9] = [tower_soc, "CHAMPION"]
 isgustavo = false;
 playerid = -4;
 selected = 0;
@@ -27,7 +27,7 @@ switch (room)
 	case tower_3:
 		selected = 3;
 		break;
-			case tower_e2:
+	case tower_e2:
 		selected = 4;
 		break;
 	case tower_4:
@@ -39,8 +39,11 @@ switch (room)
 		case tower_5:
 		selected = 7;
 		break;
-		case tower_soc:
+		case tower_top:
 		selected = 8;
+		break;
+		case tower_soc:
+		selected = 9;
 		break;
 }
 if (global.panic)

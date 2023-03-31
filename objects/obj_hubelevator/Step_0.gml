@@ -22,6 +22,8 @@ switch (state)
 							targetDoor = "C";
 							if (targetRoom == tower_4)
 							targetDoor = "B";
+							if (targetRoom == tower_top)
+							targetDoor = "D";
 							
 						if (check_player_coop())
 						{

@@ -1,1 +1,2 @@
-targetRoom = top_2;
+targetRoom = tower_top2;
+targetDoor = "B"
