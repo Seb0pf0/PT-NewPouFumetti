@@ -1,13 +1,16 @@
-if (obj_player1.key_up2)
+with obj_player1
 {
-	if (obj_player1.ispeppino = 1)
+if (other.key_up2)
+{
+	if (global.peterplus = 0)
 	{
-		obj_player1.ispeppino = 0
-		obj_player1.palette =0
+		global.peterplus = 0
+	
 	}
 	else 
 	{
-	obj_player1.ispeppino = 1
-		obj_player1.palette = 1;
+global.peterplus = 0
+		
  }
+}
 }

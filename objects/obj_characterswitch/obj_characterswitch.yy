@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprite1030",
-    "path": "sprites/sprite1030/sprite1030.yy",
+    "name": "spr_characterchangecube",
+    "path": "sprites/spr_characterchangecube/spr_characterchangecube.yy",
   },
   "spriteMaskId": null,
   "visible": true,

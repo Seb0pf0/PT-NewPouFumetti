@@ -11,7 +11,7 @@ else
 	global.pigtotal = 0;
 	global.pigreduction = 0;
 	ini_open_from_string(obj_savesystem.ini_str);
-	var levels = ["entrance", "medieval", "ruin", "dungeon", "badland", "graveyard", "farm", "saloon", "plage", "forest", "space", "minigolf", "street", "sewer", "industrial", "freezer", "chateau", "kidsparty", "war"];
+	var levels = ["entrance", "medieval", "ruin", "dungeon", "badland", "graveyard", "farm", "saloon", "plage", "forest", "space", "minigolf", "street", "sewer", "industrial", "freezer", "chateau", "kidsparty", "war", "fruit", "orange", "waterfall", "jungle", "seacon", "arcade", "felia", "kungfu", "oven", "strongcold", "mansion", "cantiere", "library", "top", "tbd", "racing", "glitch", "champ", "desert"];
 	for (var i = 0; i < array_length(levels); i++)
 	{
 		var b = levels[i];
@@ -33,7 +33,7 @@ else
 		}
 		global.pigreduction += ini_read_real(b, "reduction", 0);
 	}
-	if (ini_read_real("w5stick", "mooneyunlocked", false))
-		instance_destroy();
+	//if (ini_read_real("w5stick", "mooneyunlocked", false))
+		//instance_destroy();
 	ini_close();
 }
