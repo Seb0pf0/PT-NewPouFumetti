@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Doors",
-    "path": "folders/Objects/Room Structure/Doors.yy",
+    "name": "Exits",
+    "path": "folders/Objects/Room Structure/Doors/Exits.yy",
   },
   "parentObjectId": null,
   "persistent": false,
