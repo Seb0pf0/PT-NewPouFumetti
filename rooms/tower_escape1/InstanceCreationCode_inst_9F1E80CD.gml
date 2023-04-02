@@ -1,1 +1,1 @@
-targetRoom = tower_escape2;
+targetRoom = tower_e3;

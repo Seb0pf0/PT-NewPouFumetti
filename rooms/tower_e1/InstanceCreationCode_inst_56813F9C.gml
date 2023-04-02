@@ -1,5 +1,5 @@
-level = "orange"
-targetRoom = orange_1
+level = "fruit"
+targetRoom = fruit_1
 sprite_index = spr_gate_forest;
 bgsprite = spr_gate_farmBG;
 title_index = 1;

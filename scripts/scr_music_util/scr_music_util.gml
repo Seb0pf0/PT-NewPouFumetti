@@ -65,16 +65,15 @@ function hub_state(_room, _sound, _secretsound)
 		case tower_2up:
 		case tower_cheftask2:
 		case tower_ravine:
+		case tower_e1:
 			s = 1;
 			break;
 		
 		case tower_3:
 		case tower_3up:
 		case tower_cheftask3:
-		case tower_pizzaland:
-		case tower_e1:
+		case tower_pizzaland:	
 		case tower_e2:
-		case tower_e3:
 		case tower_soc:
 		case tower_arcade:
 			s = 2;
@@ -89,6 +88,7 @@ function hub_state(_room, _sound, _secretsound)
 			break;
 		
 		case tower_5:
+		case tower_e3:
 		case tower_cheftask5:
 		case tower_laundryroom:
 		case tower_mansion:

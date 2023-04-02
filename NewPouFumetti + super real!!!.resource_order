@@ -39,6 +39,7 @@
     {"name":"Sewer","order":15,"path":"folders/Rooms/Levels/Sewer.yy",},
     {"name":"Space","order":16,"path":"folders/Rooms/Levels/Space.yy",},
     {"name":"Street","order":17,"path":"folders/Rooms/Levels/Street.yy",},
+    {"name":"TBD","order":31,"path":"folders/Rooms/Levels/TBD.yy",},
     {"name":"Top","order":20,"path":"folders/Rooms/Levels/Top.yy",},
     {"name":"War","order":18,"path":"folders/Rooms/Levels/War.yy",},
     {"name":"Waterfall","order":25,"path":"folders/Rooms/Levels/Waterfall.yy",},
@@ -76,7 +77,6 @@
     {"name":"Totem","order":139,"path":"folders/Sprites/Level Structure/Totem.yy",},
     {"name":"Tower","order":140,"path":"folders/Sprites/Level Structure/Tower.yy",},
     {"name":"Warps","order":141,"path":"folders/Sprites/Level Structure/Warps.yy",},
-    {"name":"TBD","order":31,"path":"folders/Rooms/Levels/TBD.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_hardmode","order":455,"path":"objects/obj_hardmode/obj_hardmode.yy",},
