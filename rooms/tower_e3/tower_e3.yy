@@ -56,6 +56,8 @@
     {"name":"inst_112C9A8","path":"rooms/tower_e3/tower_e3.yy",},
     {"name":"inst_3A26D496","path":"rooms/tower_e3/tower_e3.yy",},
     {"name":"inst_406132B4","path":"rooms/tower_e3/tower_e3.yy",},
+    {"name":"inst_3AA3CED7","path":"rooms/tower_e3/tower_e3.yy",},
+    {"name":"inst_7F23BB0F","path":"rooms/tower_e3/tower_e3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -109,6 +111,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_112C9A8","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_kentukybomber","path":"objects/obj_kentukybomber/obj_kentukybomber.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3A26D496","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pepbat","path":"objects/obj_pepbat/obj_pepbat.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":960.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_406132B4","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pizzard","path":"objects/obj_pizzard/obj_pizzard.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":1040.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3AA3CED7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_computer","path":"objects/obj_computer/obj_computer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1472.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7F23BB0F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_grannypizzasign","path":"objects/obj_grannypizzasign/obj_grannypizzasign.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":1152.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":40,"SerialiseWidth":63,"TileCompressedData":[
 -2520,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"tileset_dungeon","path":"tilesets/tileset_dungeon/tileset_dungeon.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},

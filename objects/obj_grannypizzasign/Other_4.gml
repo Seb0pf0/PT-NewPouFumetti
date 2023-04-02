@@ -35,10 +35,39 @@ switch (room)
 		break;
 	case tower_5:
 		scr_add_grannypizzalevel("chateau", 20);
+		scr_add_grannypizzalevel("strongcold", 27);
 		scr_add_grannypizzalevel("kidsparty", 21);
 		scr_add_grannypizzalevel("war", 22);
+		break
+	case tower_top:
+		scr_add_grannypizzalevel("top", 23);
 		if (quick_ini_read_string("", "Game", "finalrank", "none") != "none")
 			scr_add_grannypizzalevel("exit", 23, false, false, false, true);
+			break
+	case tower_e1:
+		scr_add_grannypizzalevel("fruit", 23);
+		scr_add_grannypizzalevel("orange", 23);
+		scr_add_grannypizzalevel("waterfall", 23);
+		scr_add_grannypizzalevel("jungle", 23);
+		break;
+	case tower_e2:
+		scr_add_grannypizzalevel("seacon", 23);
+		scr_add_grannypizzalevel("arcade", 23);
+		scr_add_grannypizzalevel("kungfu", 23);
+		scr_add_grannypizzalevel("felia", 23);
+		break;
+	case tower_e3:
+		scr_add_grannypizzalevel("oven", 23);
+		scr_add_grannypizzalevel("mansion", 23);
+		scr_add_grannypizzalevel("cantiere", 23);
+		scr_add_grannypizzalevel("library", 23);
+		break;
+	case tower_soc:
+		scr_add_grannypizzalevel("tbd", 26);
+		scr_add_grannypizzalevel("desert", 25);
+		scr_add_grannypizzalevel("glitch", 23);
+		scr_add_grannypizzalevel("racing", 23);
+		scr_add_grannypizzalevel("champ", 23);
 		break;
 }
 level_xpad = (sprite_get_width(spr_tutorialbubble) * text_xscale) / (array_length(levelarray) + 1);
