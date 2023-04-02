@@ -2,7 +2,7 @@ y = Approach(y, y_to, 2);
 x = xstart;
 if (y == y_to)
 {
-	if (room != tower_5)
+	if (room != tower_top)
 	{
 		with (instance_create(x, y, obj_bossdoor))
 		{

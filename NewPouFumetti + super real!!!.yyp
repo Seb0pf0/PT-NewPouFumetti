@@ -5663,6 +5663,7 @@
     {"id":{"name":"spr_santasleight","path":"sprites/spr_santasleight/spr_santasleight.yy",},},
     {"id":{"name":"spr_santasleightpep","path":"sprites/spr_santasleightpep/spr_santasleightpep.yy",},},
     {"id":{"name":"spr_santasleightempty","path":"sprites/spr_santasleightempty/spr_santasleightempty.yy",},},
+    {"id":{"name":"boss_templeguardian","path":"rooms/boss_templeguardian/boss_templeguardian.yy",},},
     {"id":{"name":"spr_eyedebris","path":"sprites/spr_eyedebris/spr_eyedebris.yy",},},
     {"id":{"name":"bg_christmasmenu","path":"sprites/bg_christmasmenu/bg_christmasmenu.yy",},},
     {"id":{"name":"spr_ruinend_secret","path":"sprites/spr_ruinend_secret/spr_ruinend_secret.yy",},},
@@ -8104,6 +8105,7 @@
     {"roomId":{"name":"oven_6","path":"rooms/oven_6/oven_6.yy",},},
     {"roomId":{"name":"tower_top2","path":"rooms/tower_top2/tower_top2.yy",},},
     {"roomId":{"name":"tbd_1","path":"rooms/tbd_1/tbd_1.yy",},},
+    {"roomId":{"name":"boss_templeguardian","path":"rooms/boss_templeguardian/boss_templeguardian.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},

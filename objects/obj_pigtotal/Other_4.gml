@@ -21,7 +21,7 @@ else
 				global.pigtotal += 10;
 		}
 	}
-	var _worlds = ["w1stick", "w2stick", "w3stick", "w4stick", "w5stick"];
+	var _worlds = ["w1stick", "w2stick", "w3stick", "w4stick", "w5stick", "w6stick", "w7stick", "w8stick"];
 	for (i = 0; i < array_length(_worlds); i++)
 	{
 		b = _worlds[i];
