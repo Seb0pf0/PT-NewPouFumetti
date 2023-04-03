@@ -6386,6 +6386,7 @@
     {"id":{"name":"bg_factoryindustrial_chunk3","path":"sprites/bg_factoryindustrial_chunk3/bg_factoryindustrial_chunk3.yy",},},
     {"id":{"name":"bg_towersunset","path":"sprites/bg_towersunset/bg_towersunset.yy",},},
     {"id":{"name":"spr_gustavo_warmissile","path":"sprites/spr_gustavo_warmissile/spr_gustavo_warmissile.yy",},},
+    {"id":{"name":"spr_axeman_plh","path":"sprites/spr_axeman_plh/spr_axeman_plh.yy",},},
     {"id":{"name":"spr_beedecotaunt","path":"sprites/spr_beedecotaunt/spr_beedecotaunt.yy",},},
     {"id":{"name":"spr_pizzahead_surprisebox","path":"sprites/spr_pizzahead_surprisebox/spr_pizzahead_surprisebox.yy",},},
     {"id":{"name":"spr_golfcourse4","path":"sprites/spr_golfcourse4/spr_golfcourse4.yy",},},

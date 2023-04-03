@@ -718,6 +718,7 @@
     {"name":"spr_heater2","order":20,"path":"sprites/spr_heater2/spr_heater2.yy",},
     {"name":"spr_banana2","order":19,"path":"sprites/spr_banana2/spr_banana2.yy",},
     {"name":"spr_gustavo_warmissile","order":18,"path":"sprites/spr_gustavo_warmissile/spr_gustavo_warmissile.yy",},
+    {"name":"spr_axeman_plh","order":3,"path":"sprites/spr_axeman_plh/spr_axeman_plh.yy",},
     {"name":"spr_giantslimethrow","order":16,"path":"sprites/spr_giantslimethrow/spr_giantslimethrow.yy",},
     {"name":"spr_gustavosign","order":17,"path":"sprites/spr_gustavosign/spr_gustavosign.yy",},
     {"name":"spr_chigaco","order":15,"path":"sprites/spr_chigaco/spr_chigaco.yy",},
