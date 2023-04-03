@@ -1,1 +1,0 @@
-text = "Silent Blackout goes here"

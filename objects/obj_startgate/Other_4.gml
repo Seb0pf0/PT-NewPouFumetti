@@ -32,7 +32,7 @@ switch targetRoom
 	case factory_1:
 	case freezer_1:
 	case mansion_1:
-	case kidsparty_entrance1:
+	case library_1:
 		world = 5
 		break
 	case boss_pepperman:
