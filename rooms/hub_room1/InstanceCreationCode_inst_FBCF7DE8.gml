@@ -1,2 +1,2 @@
-level = "entrance";
-targetRoom = entrance_1;
+level = "house";
+targetRoom = floor2_room9;

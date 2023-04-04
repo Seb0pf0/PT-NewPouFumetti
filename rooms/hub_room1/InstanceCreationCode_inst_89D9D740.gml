@@ -1,2 +1,2 @@
-level = "dungeon";
-targetRoom = dungeon_1;
+level = "fridge";
+targetRoom = floor5_room1;

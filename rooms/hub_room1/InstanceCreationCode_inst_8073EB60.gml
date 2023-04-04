@@ -1,2 +1,2 @@
-level = "medieval";
-targetRoom = medieval_1;
+level = "trash";
+targetRoom = floor4_room0;

@@ -1,2 +1,2 @@
-level = "ruin";
-targetRoom = ruin_1;
+level = "artificial";
+targetRoom = floor3_room0;
