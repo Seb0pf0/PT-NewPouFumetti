@@ -13,3 +13,10 @@ if (global.panic)
 	instance_create(x + 50, y + 96, obj_rubble);
 	instance_destroy();
 }
+var _found = false;
+ini_open_from_string(obj_savesystem.ini_str);
+if (ini_read_string("Game", "finalrank", "none") != "none")
+	_found = false;
+ini_close();
+if (_found)
+	instance_destroy();

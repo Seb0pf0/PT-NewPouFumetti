@@ -318,7 +318,7 @@ if (pause && !instance_exists(obj_option) && alarm[3] == -1)
 					var arr = noone;
 					ds_list_copy(sl, sound_list);
 					ds_list_copy(il, instance_list);
-					if (room == hub_room1 || room == Finalintro || room == characterselect || room == cowboytask || room == Titlescreen || room == Mainmenu || room == Scootertransition || room == rm_levelselect || (string_copy(room_get_name(room), 1, 5) == "tower" && (!global.panic)))
+					if (room == hub_room2 || room == Finalintro || room == characterselect || room == cowboytask || room == Titlescreen || room == Mainmenu || room == Scootertransition || room == rm_levelselect || (string_copy(room_get_name(room), 1, 5) == "tower" && (!global.panic)))
 					{
 						if global.startgate
 						{
