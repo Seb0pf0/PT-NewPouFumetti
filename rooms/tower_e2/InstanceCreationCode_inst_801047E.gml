@@ -4,3 +4,4 @@ targetRoom = boss_felia;
 save = "w7stick";
 group_arr = ["bossgroup"];
 maxscore = global.stickreq[2];
+msg = "Deep Sea Laboratory"

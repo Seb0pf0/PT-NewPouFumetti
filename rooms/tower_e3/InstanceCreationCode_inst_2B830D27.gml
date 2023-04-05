@@ -4,3 +4,4 @@ targetRoom = boss_witchp1;
 save = "w8stick";
 group_arr = ["bossgroup"];
 maxscore = global.stickreq[3];
+msg = "Creepy Kitchen"

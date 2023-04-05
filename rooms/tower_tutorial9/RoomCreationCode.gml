@@ -1,2 +1,2 @@
 pal_swap_init_system(shd_pal_swapper);
-global.roommessage = "HOW TO THROW YOUR ENEMIES";
+global.roommessage = lang_get_value("room_tutorial9");

@@ -20,3 +20,5 @@ titlecard_index = 0;
 title_sprite = spr_titlecards_title;
 title_index = 0;
 title_music = "event:/music/w1/entrancetitle";
+transfotip = -4
+msg = ""

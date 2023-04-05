@@ -317,6 +317,16 @@ room_entrances1 = "LOOKS LIKE YOU FOUND A SECRET!"
 room_entrances2 = "DONT FORGET YOUR MOVES!"
 room_entrances3 =  "DONT FALL OFF!"
 room_entrancestreasure = "THIS IS SUPPOSED TO BE A TREASURE?!?"
+room_tutorial1 = "FIRST STEPS"
+room_tutorial2 = "SLAM YOUR BODY ALL AROUND"
+room_tutorial3 = "RUNNING ON WALLS"
+room_tutorial4 = "GRABBING POWER"
+room_tutorial5 = "DIVE TO VICTORY!"
+room_tutorial6 = "MOMENTUM IS THE KEY"
+room_tutorial7 = "ZIG PIZZAG"
+room_tutorial8 = "GOING HIGH!"
+room_tutorial9 = "HOW TO THROW YOUR ENEMIES"
+room_tutorial10 = "JOHN ZONE"
 # ---------------
 # ACHIEVEMENTS
 # ---------------

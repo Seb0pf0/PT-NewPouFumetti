@@ -293,6 +293,16 @@ room_towere3 = "LA VILLA DELLA STREGA"
 room_toweroldzone = "PIANO ANTICO"
 room_towertop = "IN CIMA ALLA TORRE"
 room_towertop2 = "CIELO"
+room_tutorial1 = "PRIMI PASSI"
+room_tutorial2 = "GIU DI COLPO"
+room_tutorial3 = "CORSA SULLE PARETI"
+room_tutorial4 = "POTERE ALLE MANI"
+room_tutorial5 = "GIU VERSO LA VITTORIA!"
+room_tutorial6 = "LA VELOCITA E LA CHIAVE"
+room_tutorial7 = "ZIG PIZZAG"
+room_tutorial8 = "DRITTO VERSO IL CIELO"
+room_tutorial9 = "COME LANCIARE UN NEMICO"
+room_tutorial10 = "ZONA JOHN"
 
 # ---------------
 # ACHIEVEMENTS
