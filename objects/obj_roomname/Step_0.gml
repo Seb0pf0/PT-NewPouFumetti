@@ -1,4 +1,4 @@
-if (showtext == 1)
+/*if (showtext == 1)
 {
 	if (yi < 30)
 		yi += 5;
