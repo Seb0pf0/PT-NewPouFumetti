@@ -1,5 +1,5 @@
 pal_swap_init_system(shd_pal_swapper);
-global.roommessage = "I WONDER WHATS THIS... HMM...";
+global.roommessage = lang_get_value("room_entrancelap");
 if (!obj_secretmanager.init)
 {
 	trace("secret init");

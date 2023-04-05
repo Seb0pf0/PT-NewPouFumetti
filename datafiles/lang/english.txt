@@ -301,7 +301,22 @@ room_towere3 = "THE WITCH MANSION"
 room_toweroldzone = "ANCIENT FLOOR"
 room_towertop = "TOP OF THE TOWER"
 room_towertop2 = "SKY"
-
+room_entrance10 = "WORLD OF JOHN"
+room_entrance1 = "WELCOME TO PIZZA TOWER"
+room_entrance2 = "CHECKERED HALLWAY"
+room_entrance3 = "FROM THE BOTTOM"
+room_entrance4 = "GUEST ROOM"
+room_entrance5 = "JUNGLE SHAPES"
+room_entrance6 = "WHERE IS THE RECEPTION?"
+room_entrance6b = "DARING ESCAPE"
+room_entrance7 = "SUPER SLUMP"
+room_entrance8 = "A CITY NOW?"
+room_entrance9 = "SWEDEN HEAVEN"
+room_entrancelap = "I WONDER WHATS THIS... HMM..."
+room_entrances1 = "LOOKS LIKE YOU FOUND A SECRET!"
+room_entrances2 = "DONT FORGET YOUR MOVES!"
+room_entrances3 =  "DONT FALL OFF!"
+room_entrancestreasure = "THIS IS SUPPOSED TO BE A TREASURE?!?"
 # ---------------
 # ACHIEVEMENTS
 # ---------------

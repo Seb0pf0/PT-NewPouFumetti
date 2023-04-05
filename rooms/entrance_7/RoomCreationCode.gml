@@ -1,2 +1,2 @@
 pal_swap_init_system(shd_pal_swapper);
-global.roommessage = "SUPER SLUMP";
+global.roommessage = lang_get_value("room_entrance7");
