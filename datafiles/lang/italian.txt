@@ -271,6 +271,14 @@ room_towerruin = "TORRE ANTICA"
 room_soundtest = "TEST SONORO"
 room_outside = "AL DI FUORI"
 room_entrance1 = "BENVENUTO A PIZZA TOWER"
+room_towere2 = "ISOLA SINFONIA"
+room_towersoc = "PIANETA DEL CAMPIONE"
+room_towere1 = "FRUTTOPIA"
+room_towere3 = "LA VILLA DELLA STREGA"
+room_toweroldzone = "PIANO ANTICO"
+room_towertop = "IN CIMA ALLA TORRE"
+room_towertop2 = "CIELO"
+
 # ---------------
 # ACHIEVEMENTS
 # ---------------

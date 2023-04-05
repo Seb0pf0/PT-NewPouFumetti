@@ -2,13 +2,10 @@ if (room == Mainmenu || room == tower_soundtest)
 	exit;
 	var _xx  = 195
 draw_set_font(lang_get_font("smallfont"));
-	
 	draw_set_halign(fa_center)
 	draw_set_valign(fa_top)
 	draw_set_color(c_white)
-	
 	draw_sprite(spr_roomnamebg,0, _xx, yi)
-
 	if string_width(string_upper(msg)) <= maxwidth
 		draw_text(_xx, yi, string_upper(msg))
 	else

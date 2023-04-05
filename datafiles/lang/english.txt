@@ -294,6 +294,14 @@ room_towerruin = "OLD TOWER"
 room_towerfinalhallway = "CONTROL ROOM"
 room_soundtest = "SOUND TEST"
 room_outside = "OUTSIDE"
+room_towere2 = "SEACON ISLAND"
+room_towersoc = "SKY OF THE CHAMPIONS"
+room_towere1 = "FRUITVILLE"
+room_towere3 = "THE WITCH MANSION"
+room_toweroldzone = "ANCIENT FLOOR"
+room_towertop = "TOP OF THE TOWER"
+room_towertop2 = "SKY"
+
 # ---------------
 # ACHIEVEMENTS
 # ---------------
