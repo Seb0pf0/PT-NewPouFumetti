@@ -1,3 +1,4 @@
+scr_create_uparrowhitbox()
 depth = 10
 state = states.normal;
 hub_array[0] = [tower_1, "FLOOR 1"];
