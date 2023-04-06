@@ -1,2 +1,5 @@
-depth = 10
-global.peterplus = 0
+if global.panic
+    instance_destroy()
+depth = 100
+scr_create_uparrowhitbox()
+us = 0

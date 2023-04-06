@@ -1,16 +1,6 @@
-with obj_player1
+var player = other
+if (player.key_up2 && player.state == (0 << 0))
 {
-if (other.key_up2)
-{
-	if (global.peterplus = 0)
-	{
-		global.peterplus = 0
-	
-	}
-	else 
-	{
-global.peterplus = 0
-		
- }
-}
+    player.key_up2 = 0
+    instance_create_unique(0, 0, 36)
 }
