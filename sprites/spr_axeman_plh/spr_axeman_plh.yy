@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "NewPouFumetti + super real!!!",
-    "path": "NewPouFumetti + super real!!!.yyp",
+    "name": "NPF",
+    "path": "folders/Sprites/NPF.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
