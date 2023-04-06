@@ -2,7 +2,7 @@ if (room != library_1)
 {
 	var roomname = room_get_name(room);
 	roomname = string_letters(roomname);
-	if (room == tower_pizzafacehall || room == tower_5 || room == boss_fakepephallway || roomname == "kidspartyfloor" || roomname == "library" || roomname == "kidspartybasementsecret" || roomname == "kidspartysecret" || roomname == "streetbacon")
+	if (room == tower_pizzafacehall || room == tower_5|| room = tower_oldzone || room == boss_fakepephallway || roomname == "kidspartyfloor" || roomname == "library" || roomname == "kidspartybasementsecret" || roomname == "kidspartysecret" || roomname == "streetbacon")
 	{
 		kidsparty_lightning = true;
 		dark_lightning = false;

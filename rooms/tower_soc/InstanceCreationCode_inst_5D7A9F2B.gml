@@ -1,1 +1,0 @@
-text = "Glitchy Landfill here"
