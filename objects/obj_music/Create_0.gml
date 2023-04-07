@@ -229,6 +229,7 @@ add_music(freezer_1, "event:/music/w4/freezer", "event:/music/w4/freezersecret",
 	return;
 }
 )
+add_music(floor3_room0, "event:/music/w4/industrial", "event:/music/w4/industrialsecret", 0)
 add_music(industrial_1, "event:/music/w4/industrial", "event:/music/w4/industrialsecret", 0, function(room, event, event_secret)
 {
 	s = -1

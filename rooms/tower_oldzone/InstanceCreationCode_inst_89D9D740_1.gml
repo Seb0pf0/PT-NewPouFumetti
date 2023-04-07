@@ -1,3 +1,10 @@
 level = "fridge";
 targetRoom = floor5_room1;
+sprite_index = spr_gate_freezer;
+bgsprite = spr_gate_freezerBG;
+title_index = 7;
+title_sprite = spr_titlecards_title2;
+titlecard_index = 17;
+title_music = "event:/music/w4/freezertitle";
+group_arr = ["freezergroup"];
 msg = "Unstable Freezer"
