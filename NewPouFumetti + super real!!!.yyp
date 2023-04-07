@@ -4239,6 +4239,7 @@
     {"id":{"name":"spr_playerN_crouchfall","path":"sprites/spr_playerN_crouchfall/spr_playerN_crouchfall.yy",},},
     {"id":{"name":"tile_factory3","path":"sprites/tile_factory3/tile_factory3.yy",},},
     {"id":{"name":"spr_playerN_crouchjump","path":"sprites/spr_playerN_crouchjump/spr_playerN_crouchjump.yy",},},
+    {"id":{"name":"test","path":"notes/test/test.yy",},},
     {"id":{"name":"spr_badrat_scared","path":"sprites/spr_badrat_scared/spr_badrat_scared.yy",},},
     {"id":{"name":"spr_playerN_crawl","path":"sprites/spr_playerN_crawl/spr_playerN_crawl.yy",},},
     {"id":{"name":"spr_playerN_cheesedmove","path":"sprites/spr_playerN_cheesedmove/spr_playerN_cheesedmove.yy",},},
