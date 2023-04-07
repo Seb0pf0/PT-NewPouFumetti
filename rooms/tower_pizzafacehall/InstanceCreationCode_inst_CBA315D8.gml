@@ -13,3 +13,4 @@ if (ini_read_string("Game", "finalrank", "none") != "none")
 ini_close();
 if (!_found)
 	instance_destroy();
+msg = "The Crumbling Tower of Pizza"
