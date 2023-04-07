@@ -1695,6 +1695,7 @@
     {"id":{"name":"desert_secret2","path":"rooms/desert_secret2/desert_secret2.yy",},},
     {"id":{"name":"desert_secret3","path":"rooms/desert_secret3/desert_secret3.yy",},},
     {"id":{"name":"desert_secret4","path":"rooms/desert_secret4/desert_secret4.yy",},},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"desert_secret5","path":"rooms/desert_secret5/desert_secret5.yy",},},
     {"id":{"name":"desert_secret6","path":"rooms/desert_secret6/desert_secret6.yy",},},
     {"id":{"name":"graveyard_1","path":"rooms/graveyard_1/graveyard_1.yy",},},
