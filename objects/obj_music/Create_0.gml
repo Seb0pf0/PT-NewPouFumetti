@@ -229,7 +229,25 @@ add_music(freezer_1, "event:/music/w4/freezer", "event:/music/w4/freezersecret",
 	return;
 }
 )
-add_music(floor3_room0, "event:/music/w4/industrial", "event:/music/w4/industrialsecret", 0)
+add_music(floor3_room0, "event:/music/w4/industrial", "event:/music/w4/industrialsecret", 0, function(room, event, event_secret)
+{
+	s = -1
+	switch room
+	{
+		case floor3_room0:
+		case floor3_room3:
+			s = 0
+			break
+		case floor3_room4:
+			s = 1
+			break
+	}
+
+	if (s != -1)
+		fmod_event_instance_set_parameter(event, "state", s, 1)
+	return;
+}
+)
 add_music(industrial_1, "event:/music/w4/industrial", "event:/music/w4/industrialsecret", 0, function(room, event, event_secret)
 {
 	s = -1

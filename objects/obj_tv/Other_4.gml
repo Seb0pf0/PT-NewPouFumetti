@@ -168,6 +168,9 @@ switch (room)
 	case strongcold_10:
 		global.srank = 12000;
 		break;
+		case floor3_room0:
+		global.srank = 15000;
+		break;
 	
 	case boss_pepperman:
 		global.srank = 6;

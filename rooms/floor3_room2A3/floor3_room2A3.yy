@@ -97,6 +97,8 @@
     {"name":"inst_59C8C982","path":"rooms/floor3_room2A3/floor3_room2A3.yy",},
     {"name":"inst_DD7B370A","path":"rooms/floor3_room2A3/floor3_room2A3.yy",},
     {"name":"inst_522EA572","path":"rooms/floor3_room2A3/floor3_room2A3.yy",},
+    {"name":"inst_25693836","path":"rooms/floor3_room2A3/floor3_room2A3.yy",},
+    {"name":"inst_313FACB","path":"rooms/floor3_room2A3/floor3_room2A3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -191,6 +193,8 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Compatibility_Instances_Depth_5","depth":5,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_C4044B1A","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hallway","path":"objects/obj_hallway/obj_hallway.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":0.5,"x":2080.0,"y":224.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59C8C982","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hallway","path":"objects/obj_hallway/obj_hallway.yy",},"properties":[],"rotation":0.0,"scaleX":-2.0,"scaleY":0.5,"x":-64.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_25693836","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_doorE","path":"objects/obj_doorE/obj_doorE.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_313FACB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_doorF","path":"objects/obj_doorF/obj_doorF.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2080.0,"y":224.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Compatibility_Instances_Depth_98","depth":98,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_DD7B370A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"properties":[],"rotation":0.0,"scaleX":86.0,"scaleY":8.0,"x":-352.0,"y":-32.0,},
@@ -213,7 +217,7 @@
 44,41,42,43,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,64,61,62,63,
 64,61,62,63,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,84,81,82,83,
 84,81,82,83,],"TileDataFormat":1,},"tilesetId":{"name":"tile_factory2","path":"tilesets/tile_factory2/tile_factory2.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Backgrounds_1","animationFPS":20.0,"animationSpeedType":0,"colour":4294967295,"depth":298,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"bg_factoryindustrial","path":"sprites/bg_factoryindustrial/bg_factoryindustrial.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Backgrounds_still1","animationFPS":20.0,"animationSpeedType":0,"colour":4294967295,"depth":298,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"bg_factoryindustrial","path":"sprites/bg_factoryindustrial/bg_factoryindustrial.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
   "parent": {
     "name": "Factory (floor3)",

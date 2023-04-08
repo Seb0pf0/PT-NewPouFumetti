@@ -1,0 +1,1 @@
+targetRoom = floor3_room6
