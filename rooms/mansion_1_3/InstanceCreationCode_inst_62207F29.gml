@@ -1,2 +1,1 @@
-targetRoom = mansion_b1_1
-visible = false
+targetRoom = mansion_3
