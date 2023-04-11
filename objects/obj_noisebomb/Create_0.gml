@@ -11,5 +11,5 @@ with (obj_player)
 	image_index = 0;
 }
 sprite_index = spr_noisebomb_intro;
-instance_create(x, y, obj_taunteffect);
+instance_create(x, y, obj_baddietaunteffect);
 playerid = obj_player1;

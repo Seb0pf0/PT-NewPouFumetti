@@ -35,6 +35,8 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 	switch room
 	{
 		case floor3_roomtreasure:
+			var lay = layer_get_id("Backgrounds_1");
+			layer_background_sprite(layer_background_get_id(lay), bg_factory3escape);
 			global.fill = 1860;
 			break;
 		case medieval_10:

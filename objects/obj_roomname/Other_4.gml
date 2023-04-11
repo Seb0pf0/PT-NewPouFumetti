@@ -11,9 +11,8 @@ else
 	visible = true;
 if (is_bossroom())
 	visible = false;
-if (room == tower_soundtest || room == Mainmenu)
+if (room == tower_soundtest || room == Mainmenu|| room = Longintro)
 {
 	visible = false;
-	yi = -50;
 	showtext = false;
 }
