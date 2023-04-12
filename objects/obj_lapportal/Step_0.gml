@@ -25,6 +25,14 @@ if (global.panic || instance_exists(obj_wartimer))
 					with (instance_create(x, y, obj_smallnumber))
 						number = string(3000);
 				}
+				else 		
+				{
+					ds_list_add(global.saveroom, other.id);
+					global.collect += 1500;
+					global.combotime = 60;
+					with (instance_create(x, y, obj_smallnumber))
+						number = string(1500);
+				}
 			}
 		}
 	}

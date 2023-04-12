@@ -169,6 +169,7 @@
     {"name":"inst_5CD96A5F","path":"rooms/tower_2/tower_2.yy",},
     {"name":"inst_E18CD8D7","path":"rooms/tower_2/tower_2.yy",},
     {"name":"inst_73E04A72","path":"rooms/tower_2/tower_2.yy",},
+    {"name":"inst_12AF6282","path":"rooms/tower_2/tower_2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -349,6 +350,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5CD96A5F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_palettedresser","path":"objects/obj_palettedresser/obj_palettedresser.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4832.0,"y":1024.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_E18CD8D7","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_secretportal","path":"objects/obj_secretportal/obj_secretportal.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3648.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73E04A72","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hubelevator","path":"objects/obj_hubelevator/obj_hubelevator.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1056.0,"y":800.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12AF6282","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hubelevator","path":"objects/obj_hubelevator/obj_hubelevator.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5600.0,"y":384.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_55DE0C9A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_peppermangraffiti","path":"sprites/spr_peppermangraffiti/spr_peppermangraffiti.yy",},"x":4224.0,"y":416.0,},

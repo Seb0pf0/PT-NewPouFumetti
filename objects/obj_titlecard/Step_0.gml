@@ -7,6 +7,7 @@ if (!fadein)
 		start = true;
 		music = false;
 		alarm[0] = 180;
+		global.gameframe_caption_text = "Loading the Pizza Tower.";
 	}
 }
 else
