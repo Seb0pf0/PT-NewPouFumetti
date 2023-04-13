@@ -1,2 +1,2 @@
-pal_swap_init_system(shd_pal_swapper);
-global.roommessage = "MY NEW SHINY BLACK BELT";
+pal_swap_init_system(3)
+global.roommessage = "PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER"
