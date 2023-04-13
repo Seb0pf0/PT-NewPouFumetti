@@ -3,4 +3,5 @@ bgsprite = spr_gate_peppermanBG;
 targetRoom = boss_pepperman;
 group_arr = ["bossgroup"];
 maxscore = global.stickreq[0];
+with (obj_transfotip)
 msg = "Art Gallery"

@@ -140,3 +140,9 @@ else if (ds_list_find_index(global.baddieroom, id) == -1 && important == 1)
 	}
 	ds_list_add(global.baddieroom, id);
 }
+with (obj_rpc)
+{
+var logo_set = "large_image"
+np_setpresence (concat("Score ", global.collect),global.roommessage, "large_image", "");
+np_update();
+}

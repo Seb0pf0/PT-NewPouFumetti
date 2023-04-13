@@ -2984,7 +2984,7 @@
     {"id":{"name":"spr_noiseballooncrash","path":"sprites/spr_noiseballooncrash/spr_noiseballooncrash.yy",},},
     {"id":{"name":"spr_sausageman_land","path":"sprites/spr_sausageman_land/spr_sausageman_land.yy",},},
     {"id":{"name":"bg_exit2","path":"sprites/bg_exit2/bg_exit2.yy",},},
-    {"id":{"name":"objNekoPresenceDemo","path":"objects/objNekoPresenceDemo/objNekoPresenceDemo.yy",},},
+    {"id":{"name":"obj_rpc","path":"objects/obj_rpc/obj_rpc.yy",},},
     {"id":{"name":"spr_pipe_exit","path":"sprites/spr_pipe_exit/spr_pipe_exit.yy",},},
     {"id":{"name":"spr_sausagemannocigar_fall","path":"sprites/spr_sausagemannocigar_fall/spr_sausagemannocigar_fall.yy",},},
     {"id":{"name":"spr_sausageman_fall","path":"sprites/spr_sausageman_fall/spr_sausageman_fall.yy",},},
