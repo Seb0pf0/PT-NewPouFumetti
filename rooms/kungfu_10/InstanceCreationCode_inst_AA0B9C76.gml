@@ -1,1 +1,1 @@
-targetRoom = 227
+targetRoom = kungfu_11

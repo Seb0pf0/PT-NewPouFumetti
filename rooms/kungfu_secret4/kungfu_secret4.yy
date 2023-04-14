@@ -41,8 +41,6 @@
     {"name":"inst_63A5B0FB","path":"rooms/kungfu_secret4/kungfu_secret4.yy",},
     {"name":"inst_E7592E73","path":"rooms/kungfu_secret4/kungfu_secret4.yy",},
     {"name":"inst_7C0C9CEB","path":"rooms/kungfu_secret4/kungfu_secret4.yy",},
-    {"name":"inst_9F9C404D","path":"rooms/kungfu_secret4/kungfu_secret4.yy",},
-    {"name":"inst_134FBEB5","path":"rooms/kungfu_secret4/kungfu_secret4.yy",},
   ],
   "isDnd": false,
   "layers": [

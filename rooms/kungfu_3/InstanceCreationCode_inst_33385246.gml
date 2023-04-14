@@ -1,1 +1,1 @@
-time_max = 1000
+time_max = 800
