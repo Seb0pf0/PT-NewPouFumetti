@@ -3685,6 +3685,7 @@
     {"id":{"name":"spr_player_idlefrown","path":"sprites/spr_player_idlefrown/spr_player_idlefrown.yy",},},
     {"id":{"name":"spr_pizzasona2","path":"sprites/spr_pizzasona2/spr_pizzasona2.yy",},},
     {"id":{"name":"spr_player_grabbingfall","path":"sprites/spr_player_grabbingfall/spr_player_grabbingfall.yy",},},
+    {"id":{"name":"bg_kungfucitypanic","path":"sprites/bg_kungfucitypanic/bg_kungfucitypanic.yy",},},
     {"id":{"name":"spr_player_grabbingjump","path":"sprites/spr_player_grabbingjump/spr_player_grabbingjump.yy",},},
     {"id":{"name":"spr_player_ghostdashdownright","path":"sprites/spr_player_ghostdashdownright/spr_player_ghostdashdownright.yy",},},
     {"id":{"name":"spr_beerdebris","path":"sprites/spr_beerdebris/spr_beerdebris.yy",},},
