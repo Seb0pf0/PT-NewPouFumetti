@@ -1,1 +1,1 @@
-targetRoom = kungfu_secret1
+targetRoom = beach_secret1
