@@ -268,7 +268,22 @@ add_music(industrial_1, "event:/music/w4/industrial", "event:/music/w4/industria
 }
 )
 add_music(sewer_1, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
-add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0)
+//add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0)
+add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0, function(room, event)
+{
+	if (room == street_1 || room == street_house3)
+		fmod_event_instance_set_parameter(event, "state", 0, 1)
+	else if (room == street_bacon)
+		fmod_event_instance_set_parameter(event, "state", 2, 1)
+		else if (room == kungfu_1)
+		fmod_event_instance_set_parameter(event, "state", 1, 1)
+	if (room == street_jail)
+		fmod_set_parameter("musicmuffle", 1, 0)
+	else
+		fmod_set_parameter("musicmuffle", 0, 0)
+	return;
+}
+)
 add_music(street_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0, function(room, event)
 {
 	if (room == street_1 || room == street_house3)
