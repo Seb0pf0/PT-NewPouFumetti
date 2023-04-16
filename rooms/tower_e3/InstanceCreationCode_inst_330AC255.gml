@@ -1,4 +1,4 @@
-targetRoom = mansion_start;
+targetRoom = mansion_1;
 level = "mansion";
 sprite_index = spr_gate_dungeon;
 bgsprite = spr_gate_dungeonBG;
