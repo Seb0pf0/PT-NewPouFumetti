@@ -174,6 +174,9 @@ switch (room)
 	case kungfu_1:
 		global.srank = 22000;
 		break;
+	case mansion_1:
+		global.srank = 20000;
+		break;
 	
 	case boss_pepperman:
 		global.srank = 6;
