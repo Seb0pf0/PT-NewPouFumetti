@@ -1,1 +1,1 @@
-targetRoom = 413
+targetRoom = mansion_9

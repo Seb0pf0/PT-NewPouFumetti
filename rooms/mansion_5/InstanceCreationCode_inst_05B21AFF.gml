@@ -1,1 +1,1 @@
-content = 570
+content = obj_pizzakinpineapple

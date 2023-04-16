@@ -1,2 +1,2 @@
 level = "mansion";
-treasureindex = 6;
+treasureindex = 15;

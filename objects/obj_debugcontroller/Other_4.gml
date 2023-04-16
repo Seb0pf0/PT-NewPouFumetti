@@ -15,4 +15,19 @@ if (DEBUG)
 		if (object_index == obj_platform)
 			visible = other.showcollisions;
 	}
+	with (obj_grindrail)
+	{
+		if (object_index == obj_grindrail)
+			visible = other.showcollisions;
+	}
+	with (obj_grindrailslope)
+	{
+		if (object_index == obj_grindrailslope)
+			visible = other.showcollisions;
+	}
+		with (obj_ladder)
+	{
+		if (object_index == obj_ladder)
+			visible = other.showcollisions;
+	}
 }

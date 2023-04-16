@@ -1,1 +1,1 @@
-content = 566
+content = obj_pizzakinshroom

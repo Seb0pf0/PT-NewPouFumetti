@@ -34,6 +34,7 @@
     {"name":"Kid's Party","order":9,"path":"folders/Rooms/Levels/Kid's Party.yy",},
     {"name":"KungFu","order":21,"path":"folders/Rooms/Levels/KungFu.yy",},
     {"name":"Library","order":30,"path":"folders/Rooms/Levels/Library.yy",},
+    {"name":"Mansion","order":33,"path":"folders/Rooms/Levels/Mansion.yy",},
     {"name":"MansionOLD","order":32,"path":"folders/Rooms/Levels/MansionOLD.yy",},
     {"name":"Medieval","order":10,"path":"folders/Rooms/Levels/Medieval.yy",},
     {"name":"Minigolf","order":11,"path":"folders/Rooms/Levels/Minigolf.yy",},
@@ -118,7 +119,6 @@
     {"name":"Unused","order":11,"path":"folders/Sprites/Unused.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
-    {"name":"Mansion","order":33,"path":"folders/Rooms/Levels/Mansion.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_hardmode","order":455,"path":"objects/obj_hardmode/obj_hardmode.yy",},
@@ -675,6 +675,7 @@
     {"name":"tower_e2","order":20,"path":"rooms/tower_e2/tower_e2.yy",},
     {"name":"tower_soc","order":22,"path":"rooms/tower_soc/tower_soc.yy",},
     {"name":"kungfu_treasure","order":15,"path":"rooms/kungfu_treasure/kungfu_treasure.yy",},
+    {"name":"mansion_treasure","order":13,"path":"rooms/mansion_treasure/mansion_treasure.yy",},
     {"name":"tower_sage","order":27,"path":"rooms/tower_sage/tower_sage.yy",},
     {"name":"mansion_plain","order":6,"path":"rooms/mansion_plain/mansion_plain.yy",},
     {"name":"close_menu","order":1,"path":"scripts/close_menu/close_menu.yy",},

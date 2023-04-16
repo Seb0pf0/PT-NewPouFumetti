@@ -1,1 +1,1 @@
-content = 478
+content = obj_forknight

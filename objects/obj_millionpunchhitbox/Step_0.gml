@@ -1,4 +1,4 @@
-if (!instance_exists(baddieID))
+/*if (!instance_exists(baddieID))
 {
 	instance_destroy();
 	exit;

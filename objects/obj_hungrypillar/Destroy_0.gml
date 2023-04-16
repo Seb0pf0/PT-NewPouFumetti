@@ -87,6 +87,11 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 		case kidsparty_john:
 			global.fill = 2460;
 			break;
+		case mansion_7:
+			lay = layer_get_id("Backgrounds_H1");
+			layer_background_sprite(layer_background_get_id(lay), bg_castle3escape);
+			global.fill = 3426;
+			break;
 		case tower_finalhallway:
 			global.fill = 4056;
 			break;
