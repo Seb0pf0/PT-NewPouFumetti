@@ -12,6 +12,7 @@ if (parameter_count() > 2)
 	DEBUG = true;
 if (!DEBUG)
 {
+	DEBUG = true
 	var n = parameter_count();
 	for (var i = 0; i < n; i++)
 	{
