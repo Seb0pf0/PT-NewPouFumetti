@@ -6,6 +6,7 @@ if (state == (0 << 0))
 	fmod_event_one_shot("event:/sfx/misc/foundtreasure");
 	global.combotime = 60
     global.kungfu = 1
+	global.attackstyle = 1
     global.hp = 8
     x = other.x
     y = (other.y - 35)

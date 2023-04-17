@@ -680,6 +680,7 @@
     {"name":"mansion_plain","order":6,"path":"rooms/mansion_plain/mansion_plain.yy",},
     {"name":"close_menu","order":1,"path":"scripts/close_menu/close_menu.yy",},
     {"name":"tower_top","order":24,"path":"rooms/tower_top/tower_top.yy",},
+    {"name":"shd_wave","order":1,"path":"shaders/shd_wave/shd_wave.yy",},
     {"name":"bg_npfextra","order":1,"path":"sprites/bg_npfextra/bg_npfextra.yy",},
     {"name":"tower_5","order":12,"path":"rooms/tower_5/tower_5.yy",},
     {"name":"tower_4","order":11,"path":"rooms/tower_4/tower_4.yy",},

@@ -369,10 +369,21 @@ function state_player_normal()
 			}
 			if (global.kungfu && key_attack && state != states.handstandjump)
 			{
-				state = states.blockstance;
-				sprite_index = spr_player_airattack;
-				hsp = 0;
-				movespeed = 0;
+                input_buffer_slap = 0
+                sprite_index = choose(spr_player_kungfu1, spr_player_kungfu2, spr_player_kungfu3)
+                suplexmove = 1
+                particle_set_scale((5 << 0), xscale, 1)
+                create_particle(x, y, (5 << 0), 0)
+                particle_set_scale((2 << 0), xscale, 1)
+                create_particle(x, y, (2 << 0))
+                with (instance_create(x, y, obj_superdashcloud))
+                    image_xscale = other.xscale
+                fmod_event_instance_play(snd_dive)
+                state = (80 << 0)
+                if (vsp > 0)
+                    vsp = 0
+                movespeed = max(movespeed, 10)
+                image_index = 0
 			}
 			break;
 		case "N":

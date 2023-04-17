@@ -2271,6 +2271,7 @@
     {"id":{"name":"street_house4","path":"rooms/street_house4/street_house4.yy",},},
     {"id":{"name":"street_house5","path":"rooms/street_house5/street_house5.yy",},},
     {"id":{"name":"street_john","path":"rooms/street_john/street_john.yy",},},
+    {"id":{"name":"shd_wave","path":"shaders/shd_wave/shd_wave.yy",},},
     {"id":{"name":"boss_pizzaface_p3","path":"rooms/boss_pizzaface_p3/boss_pizzaface_p3.yy",},},
     {"id":{"name":"saloon_1","path":"rooms/saloon_1/saloon_1.yy",},},
     {"id":{"name":"saloon_2","path":"rooms/saloon_2/saloon_2.yy",},},
