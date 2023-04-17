@@ -249,6 +249,7 @@
     {"name":"obj_soundtrap","order":344,"path":"objects/obj_soundtrap/obj_soundtrap.yy",},
     {"name":"obj_clownballoon","order":341,"path":"objects/obj_clownballoon/obj_clownballoon.yy",},
     {"name":"obj_revolvershot","order":340,"path":"objects/obj_revolvershot/obj_revolvershot.yy",},
+    {"name":"desert_9b","order":1,"path":"rooms/desert_9b/desert_9b.yy",},
     {"name":"obj_pizzaheadbomb","order":339,"path":"objects/obj_pizzaheadbomb/obj_pizzaheadbomb.yy",},
     {"name":"obj_superpinballmachine","order":338,"path":"objects/obj_superpinballmachine/obj_superpinballmachine.yy",},
     {"name":"obj_stairs","order":337,"path":"objects/obj_stairs/obj_stairs.yy",},

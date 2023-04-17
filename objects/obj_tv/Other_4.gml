@@ -34,6 +34,7 @@ switch (global.leveltosave)
 		tv_bg_index = 4;
 		break;
 	case "badland":
+	case "desert"
 		tv_bg_index = 5;
 		break;
 	case "graveyard":
@@ -176,6 +177,9 @@ switch (room)
 		break;
 	case mansion_1:
 		global.srank = 20000;
+		break;
+	case desert_1:
+		global.srank = 21000;
 		break;
 	
 	case boss_pepperman:

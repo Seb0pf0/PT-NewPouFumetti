@@ -823,6 +823,7 @@
     {"id":{"name":"obj_johnresurrection_pizzahead","path":"objects/obj_johnresurrection_pizzahead/obj_johnresurrection_pizzahead.yy",},},
     {"id":{"name":"obj_revolvershot","path":"objects/obj_revolvershot/obj_revolvershot.yy",},},
     {"id":{"name":"obj_tank","path":"objects/obj_tank/obj_tank.yy",},},
+    {"id":{"name":"desert_9b","path":"rooms/desert_9b/desert_9b.yy",},},
     {"id":{"name":"obj_pizzaheadbomb","path":"objects/obj_pizzaheadbomb/obj_pizzaheadbomb.yy",},},
     {"id":{"name":"obj_superpinballmachine","path":"objects/obj_superpinballmachine/obj_superpinballmachine.yy",},},
     {"id":{"name":"obj_pizzice","path":"objects/obj_pizzice/obj_pizzice.yy",},},
@@ -8159,6 +8160,7 @@
     {"roomId":{"name":"tower_oldzone","path":"rooms/tower_oldzone/tower_oldzone.yy",},},
     {"roomId":{"name":"mansion_1a","path":"rooms/mansion_1a/mansion_1a.yy",},},
     {"roomId":{"name":"mansion_2","path":"rooms/mansion_2/mansion_2.yy",},},
+    {"roomId":{"name":"desert_9b","path":"rooms/desert_9b/desert_9b.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},
