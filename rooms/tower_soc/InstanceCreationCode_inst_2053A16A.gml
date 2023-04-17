@@ -1,2 +1,2 @@
 level = "desert";
-treasureindex = 6;
+treasureindex = 4;
