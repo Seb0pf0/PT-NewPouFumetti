@@ -34,7 +34,7 @@ switch (global.leveltosave)
 		tv_bg_index = 4;
 		break;
 	case "badland":
-	case "desert"
+	case "desert":
 		tv_bg_index = 5;
 		break;
 	case "graveyard":

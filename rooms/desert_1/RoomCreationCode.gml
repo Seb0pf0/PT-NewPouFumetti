@@ -1,5 +1,4 @@
 pal_swap_init_system(shd_pal_swapper);
-shader_set(shd_wave)
 global.roommessage = "PIZZA TOWER OF THE WEST";
 global.gameframe_caption_text = "The weird Pizza Tower west";
 if (!obj_secretmanager.init)
