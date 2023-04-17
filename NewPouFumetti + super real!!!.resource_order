@@ -848,6 +848,7 @@
     {"name":"tbd_2","order":2,"path":"rooms/tbd_2/tbd_2.yy",},
     {"name":"spr_sirnose_suck","order":36,"path":"sprites/spr_sirnose_suck/spr_sirnose_suck.yy",},
     {"name":"boss_witchp1","order":2,"path":"rooms/boss_witchp1/boss_witchp1.yy",},
+    {"name":"bg_ufo2night","order":2,"path":"sprites/bg_ufo2night/bg_ufo2night.yy",},
     {"name":"spr_gustavoswitch2","order":35,"path":"sprites/spr_gustavoswitch2/spr_gustavoswitch2.yy",},
     {"name":"spr_water","order":34,"path":"sprites/spr_water/spr_water.yy",},
     {"name":"spr_water2","order":32,"path":"sprites/spr_water2/spr_water2.yy",},

@@ -5371,6 +5371,7 @@
     {"id":{"name":"spr_towerblock","path":"sprites/spr_towerblock/spr_towerblock.yy",},},
     {"id":{"name":"spr_bigbeer","path":"sprites/spr_bigbeer/spr_bigbeer.yy",},},
     {"id":{"name":"bg_ruincheese2","path":"sprites/bg_ruincheese2/bg_ruincheese2.yy",},},
+    {"id":{"name":"bg_ufo2night","path":"sprites/bg_ufo2night/bg_ufo2night.yy",},},
     {"id":{"name":"spr_medievalblock2","path":"sprites/spr_medievalblock2/spr_medievalblock2.yy",},},
     {"id":{"name":"bg_ruincheese3","path":"sprites/bg_ruincheese3/bg_ruincheese3.yy",},},
     {"id":{"name":"bg_ruinstatue1","path":"sprites/bg_ruinstatue1/bg_ruinstatue1.yy",},},
