@@ -1,1 +1,0 @@
-//targetRoom = mansion_b1_2
