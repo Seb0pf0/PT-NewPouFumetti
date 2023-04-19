@@ -227,6 +227,25 @@ add_music(forest_1, "event:/music/w3/forest", "event:/music/w3/forestsecret", 0,
 )
 add_music(minigolf_1, "event:/music/w3/golf", "event:/music/w3/golfsecret", 0)
 add_music(space_1, "event:/music/w3/space", "event:/music/w3/spacesecret", 0)
+add_music(floor5_room1, "event:/music/w4/freezer", "event:/music/w4/freezersecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_6038_gml_Object_obj_music_Create_0
+{
+	s = -1
+	switch room
+	{
+		case floor5_room1:
+		case floor5_room3:
+			s = 0
+			break
+		case floor5_room7:
+			s = 1
+			break
+	}
+
+	if (s != -1)
+		fmod_event_instance_set_parameter(event, "state", s, 1)
+	return;
+}
+)
 add_music(freezer_1, "event:/music/w4/freezer", "event:/music/w4/freezersecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_6038_gml_Object_obj_music_Create_0
 {
 	s = -1
