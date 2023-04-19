@@ -304,6 +304,7 @@ add_music(industrial_1, "event:/music/w4/industrial", "event:/music/w4/industria
 }
 )
 add_music(sewer_1, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
+add_music(floor4_room0, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
 //add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0)
 add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0, function(room, event)
 {
