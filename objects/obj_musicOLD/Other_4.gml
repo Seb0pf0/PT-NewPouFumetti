@@ -1,4 +1,4 @@
-if (!global.panic)
+/*if (!global.panic)
 {
 	for (var i = 0; i < array_length(room_arr); i++)
 	{

@@ -75,6 +75,7 @@ function hub_state(_room, _sound, _secretsound)
 		case tower_pizzaland:	
 		case tower_e2:
 		case tower_soc:
+		case tower_coc:
 		case tower_arcade:
 		case tower_sage:
 			s = 2;

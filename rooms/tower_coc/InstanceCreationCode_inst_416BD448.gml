@@ -1,1 +1,1 @@
-text "WIP will work on these later"
+text = "WIP will work on these later"

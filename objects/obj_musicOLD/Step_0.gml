@@ -1,4 +1,4 @@
-prevpillar_on_camera = pillar_on_camera;
+/*prevpillar_on_camera = pillar_on_camera;
 if (instance_exists(obj_hungrypillar))
 {
 	var p = false;

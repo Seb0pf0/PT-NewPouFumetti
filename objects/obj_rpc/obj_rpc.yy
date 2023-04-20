@@ -34,7 +34,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_npf_plus_logo",
+    "path": "sprites/spr_npf_plus_logo/spr_npf_plus_logo.yy",
+  },
   "spriteMaskId": null,
   "visible": false,
 }

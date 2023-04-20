@@ -1,1 +1,2 @@
-targetRoom = room
+targetRoom = tower_npfhq
+msg = "Devs House WIP"

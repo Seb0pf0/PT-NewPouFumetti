@@ -7,6 +7,8 @@ offload_arr = -4;
 locked = false;
 john = false;
 alarm[0] = 1;
+msg = ""
+transfotip = -4
 uparrowID = scr_create_uparrowhitbox();
 if (room == tower_top)
 {
