@@ -744,6 +744,7 @@
     {"name":"spr_sirnose_cooldown","order":93,"path":"sprites/spr_sirnose_cooldown/spr_sirnose_cooldown.yy",},
     {"name":"spr_itspizzatime","order":67,"path":"sprites/spr_itspizzatime/spr_itspizzatime.yy",},
     {"name":"spr_grabicon","order":66,"path":"sprites/spr_grabicon/spr_grabicon.yy",},
+    {"name":"tower_coc","order":29,"path":"rooms/tower_coc/tower_coc.yy",},
     {"name":"spr_inv","order":65,"path":"sprites/spr_inv/spr_inv.yy",},
     {"name":"spr_cheeseblock_falling","order":92,"path":"sprites/spr_cheeseblock_falling/spr_cheeseblock_falling.yy",},
     {"name":"spr_captaingoblin_canonshoot","order":64,"path":"sprites/spr_captaingoblin_canonshoot/spr_captaingoblin_canonshoot.yy",},

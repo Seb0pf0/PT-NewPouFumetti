@@ -226,6 +226,7 @@ add_music(forest_1, "event:/music/w3/forest", "event:/music/w3/forestsecret", 0,
 }
 )
 add_music(minigolf_1, "event:/music/w3/golf", "event:/music/w3/golfsecret", 0)
+add_music(golf_room1, "event:/music/w3/golf", "event:/music/w3/golfsecret", 0)
 add_music(space_1, "event:/music/w3/space", "event:/music/w3/spacesecret", 0)
 add_music(floor5_room1, "event:/music/w4/freezer", "event:/music/w4/freezersecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_6038_gml_Object_obj_music_Create_0
 {

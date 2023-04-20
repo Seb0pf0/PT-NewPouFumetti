@@ -4515,6 +4515,7 @@
     {"id":{"name":"spr_toppincheese","path":"sprites/spr_toppincheese/spr_toppincheese.yy",},},
     {"id":{"name":"spr_toppincheese_pause","path":"sprites/spr_toppincheese_pause/spr_toppincheese_pause.yy",},},
     {"id":{"name":"spr_toppintomato_panic","path":"sprites/spr_toppintomato_panic/spr_toppintomato_panic.yy",},},
+    {"id":{"name":"tower_coc","path":"rooms/tower_coc/tower_coc.yy",},},
     {"id":{"name":"spr_toppintomato_run","path":"sprites/spr_toppintomato_run/spr_toppintomato_run.yy",},},
     {"id":{"name":"spr_toppintomato","path":"sprites/spr_toppintomato/spr_toppintomato.yy",},},
     {"id":{"name":"spr_toppintomato_pause","path":"sprites/spr_toppintomato_pause/spr_toppintomato_pause.yy",},},
@@ -8146,6 +8147,7 @@
     {"roomId":{"name":"mansion_1a","path":"rooms/mansion_1a/mansion_1a.yy",},},
     {"roomId":{"name":"mansion_2","path":"rooms/mansion_2/mansion_2.yy",},},
     {"roomId":{"name":"desert_9b","path":"rooms/desert_9b/desert_9b.yy",},},
+    {"roomId":{"name":"tower_coc","path":"rooms/tower_coc/tower_coc.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},

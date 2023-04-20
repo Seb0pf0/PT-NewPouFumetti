@@ -39,8 +39,8 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 			layer_background_sprite(layer_background_get_id(lay), bg_factory3escape);
 			global.fill = 1860;
 			break;
-		case medieval_10:
-			global.fill = 2040;
+		case floor5_roomtreasure:
+			global.fill = 1740;
 			break;
 		case ruin_11:
 			global.fill = 2040;
