@@ -1,6 +1,7 @@
 function state_player_normal()
 {
 	mach2 = 0;
+	if (!instance_exists(obj_dialoguebox))
 	move = key_left + key_right;
 	skateboarding = false;
 	momemtum = false;
@@ -98,6 +99,11 @@ function state_player_normal()
 			else
 				sprite_index = movespr;
 		}
+		if (instance_exists(obj_dialoguebox))
+		{
+		  movespeed = 0;
+		  sprite_index = spr_player_idle
+		  }
 		if (scr_solid(x + sign(hsp), y) && !place_meeting(x + sign(hsp), y, obj_slope) && xscale == move && !place_meeting(x, y + 1, obj_slope))
 			movespeed = 0;
 		if (move != 0 && grounded && vsp > 0)
@@ -276,7 +282,9 @@ function state_player_normal()
 	}
 	if (grounded)
 	{
-		if ((key_jump || (input_buffer_jump > 0 && !key_attack && vsp > 0)) && !key_down && !instance_exists(obj_dialoguebox))
+		if (!instance_exists(obj_dialoguebox))
+		{
+		if ((key_jump || (input_buffer_jump > 0 && !key_attack && vsp > 0)) && !key_down )
 		{
 			input_buffer_jump = 0;
 			scr_fmod_soundeffect(jumpsnd, x, y);
@@ -308,6 +316,9 @@ function state_player_normal()
 			idle = 0;
 		}
 	}
+	}
+	else if (instance_exists(obj_dialoguebox))
+	vsp = 0
 	else if (!key_jump)
 	{
 		if (sprite_index != spr_shotgunshoot)

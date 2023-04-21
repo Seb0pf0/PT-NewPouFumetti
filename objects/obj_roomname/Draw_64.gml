@@ -1,4 +1,4 @@
-if (room == Mainmenu || room == tower_soundtest)
+if (room == Mainmenu || room == tower_soundtest || room = rm_jokestealer)
 	exit;
 	var _xx  = 195
 draw_set_font(lang_get_font("smallfont"));

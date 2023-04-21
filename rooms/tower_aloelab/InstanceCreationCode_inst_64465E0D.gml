@@ -1,4 +1,4 @@
 dialogue = [
-	"this is a test lmao"
+	"\nthis is a test lmao"
 ]
 
