@@ -276,7 +276,7 @@ function state_player_normal()
 	}
 	if (grounded)
 	{
-		if ((key_jump || (input_buffer_jump > 0 && !key_attack && vsp > 0)) && !key_down)
+		if ((key_jump || (input_buffer_jump > 0 && !key_attack && vsp > 0)) && !key_down && !instance_exists(obj_dialoguebox))
 		{
 			input_buffer_jump = 0;
 			scr_fmod_soundeffect(jumpsnd, x, y);
