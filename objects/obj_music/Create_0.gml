@@ -45,6 +45,7 @@ add_music(tower_soc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_stat
 add_music(tower_soc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_oldzone, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_sage, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
+add_music(rm_jokestealer, "event:/music/pillarmusic", -4, 0)
 add_music(tower_finalhallway, "event:/music/finalescape", -4, 0)
 add_music(tower_finalhallwaytitlecard, "event:/music/pillarmusic", -4, 0)
 add_music(tower_pizzafacehall, "event:/music/w5/finalhallway", -4, 0)

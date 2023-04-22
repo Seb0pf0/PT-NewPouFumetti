@@ -15,8 +15,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "NewPouFumetti + super real!!!",
-    "path": "NewPouFumetti + super real!!!.yyp",
+    "name": "PTO ported stuff",
+    "path": "folders/Objects/PTO ported stuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,

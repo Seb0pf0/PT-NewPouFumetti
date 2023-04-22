@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "PTO ported stuff",
+    "path": "folders/Objects/PTO ported stuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,

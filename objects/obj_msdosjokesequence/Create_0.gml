@@ -9,12 +9,18 @@ if room != rm_jokestealer
 	exit;
 }
 application_surface_draw_enable(true);
+with (obj_rpc)
+{
+var logo_set = "large_image"
+np_setpresence ("AloeXploit" ,"AloeXploit", "", "");
+np_update();
+}
 
 audio_stop_all();
 with all
 {
 	if id != other.id
-	 && object_index != obj_controller && object_index != obj_roomname
+	 && object_index != obj_controller && object_index != obj_roomname && object_index != obj_music && object_index != obj_fmod
 		instance_destroy(id, false);
 }
 

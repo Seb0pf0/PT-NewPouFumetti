@@ -2,7 +2,7 @@ message = "THESE ARE A JOKE IT DOES NOT MEAN ANYTHING PLEASE JUST CHECK THE CODE
 if con == 0
 {
 	con = 1;
-	commandlines[|0] = "NPFXPLOIT v0.6 NOTE THIS A JOKE";
+	commandlines[|0] = "ALOEXPLOIT v2.1";
 	alarm[0] = irandom_range(45, 100)
 }
 if con == 2
@@ -154,26 +154,26 @@ if con == 35
 if con == 37
 {
 	con = 38;
-	commandlines[|16] = "Retrieving stable LuigiRuntime version...";
+	commandlines[|16] = "Retrieving stable SebaGRuntime version...";
 	alarm[0] = irandom_range(5, 14)
 }
 if con == 39
 {
 	con = 40;
-	commandlines[|16] = "Retrieving stable LuigiRuntime version... DONE";
+	commandlines[|16] = "Retrieving stable SebaGRuntime version... DONE";
 
 	alarm[0] = irandom_range(8, 14)
 }
 if con == 41
 {
 	con = 42;
-	commandlines[|17] = "Installing LuigiRuntimeR1382.EXE...";
+	commandlines[|17] = "Installing SebaGRuntimeV3.13.EXE...";
 	alarm[0] = irandom_range(5, 14)
 }
 if con == 43
 {
 	con = 44;
-	commandlines[|17] = "Installing LuigiRuntimeR1382.EXE... DONE";
+	commandlines[|17] = "Installing SebaGRuntimeV3.13.EXE... DONE";
 	alarm[0] = irandom_range(8, 14)
 }
 if con == 45
@@ -215,19 +215,26 @@ if con == 55
 if con == 57
 {
 	con = 58;
-	commandlines[|18] = "Downloading NailsRails's token........ FAILED";
+	commandlines[|18] = "Downloading NailsRails's token........ SUCCESS";
 
 	alarm[0] = irandom_range(50, 100)
 }
-if con == 59
+if con == 58
 {
-	con = 60;
-	commandlines[|19] = "Begin Aloe protocol";
+	con = 59;
+	commandlines[|19] = "Destroying FMOD (restart game to have audio again)";
+
 	alarm[0] = irandom_range(50, 100)
 }
-if con == 61
+if con == 60
 {
-	con = 62;
+	con = 61;
+	commandlines[|20] = "Begin Aloe protocol";
+	alarm[0] = irandom_range(50, 100)
+}
+if con == 62
+{
+	con = 63;
 	repeat 50
 		ds_list_add(commandlines, "aloe");
 	alarm[3] = 30
