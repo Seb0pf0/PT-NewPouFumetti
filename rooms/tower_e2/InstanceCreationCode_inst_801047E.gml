@@ -3,5 +3,5 @@ bgsprite = spr_gate_peppermanBG;
 targetRoom = boss_felia;
 save = "w7stick";
 group_arr = ["bossgroup"];
-maxscore = global.stickreq[2];
+maxscore = global.stickreq[6];
 msg = "Deep Sea Laboratory"

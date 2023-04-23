@@ -1,1 +1,1 @@
-targetRoom = hub_room1;
+targetRoom = tower_entrancehall;

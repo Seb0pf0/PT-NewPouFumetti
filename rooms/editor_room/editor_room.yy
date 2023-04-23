@@ -20,7 +20,7 @@
   ],
   "parent": {
     "name": "Editor",
-    "path": "folders/Rooms/Unused/Editor.yy",
+    "path": "folders/Rooms/Editor.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

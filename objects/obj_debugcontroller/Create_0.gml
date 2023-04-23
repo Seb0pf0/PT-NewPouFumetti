@@ -102,6 +102,9 @@ if (DEBUG)
 		}
 		instance_create_unique(0, 0, 979);
 	});
+	ALOEXPLOIT = new DebugCommand("aloexploit", "does absolutely nothing", "destroys fmod", function()
+			room_goto (rm_jokestealer)
+	);
 	NOCLIP = new DebugCommand("noclip", "", "", function()
 	{
 		with (obj_player1)
@@ -305,7 +308,7 @@ if (DEBUG)
 	ds_map_set(state_map, "states.ratmount", 191);
 	command_list = ds_list_create();
 	ds_list_add(command_list, DESTROYICE, SHOW_HUD, SHOW_COLLISIONS, PLAYER_ROOM, CAMERA_ZOOM, HARDMODE, PLAYER_SET_STATE, PANIC, ALLTOPPINS, GIVEHEAT, ROOMCHECK);
-	ds_list_add(command_list, SETCOMBO, GIVEKEY, LOADTEST, NOCLIP, THROWARC, HIDETILES, LOCKCAMERA, BOSSINVINCIBLE, UNLOCK_TOPPINS, UNLOCK_BOSS_KEY, SHOW_DEBUG_OVERLAY);
+	ds_list_add(command_list, SETCOMBO, GIVEKEY, GOTOEDITOR, ALOEXPLOIT, LOADTEST, NOCLIP, THROWARC, HIDETILES, LOCKCAMERA, BOSSINVINCIBLE, UNLOCK_TOPPINS, UNLOCK_BOSS_KEY, SHOW_DEBUG_OVERLAY);
 	input_text = "";
 	text_list = ds_list_create();
 	search_commands = ds_list_create();

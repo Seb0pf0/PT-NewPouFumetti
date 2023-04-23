@@ -1,4 +1,5 @@
 /// @description Updates the Score and room name
+
 var r = string_letters(room_get_name(room));
 if (r != "towertutorial" && string_copy(r, 1, 5) == "tower")
 {

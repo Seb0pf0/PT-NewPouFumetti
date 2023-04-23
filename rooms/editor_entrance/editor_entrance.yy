@@ -31,10 +31,12 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6E7010BA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_doorA","path":"objects/obj_doorA/obj_doorA.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":416.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":17,"SerialiseWidth":30,"TileCompressedData":[
--63,25,1,17,-22,18,1,19,-6,25,1,27,-22,0,1,29,-6,25,1,27,-22,0,1,29,-6,25,1,27,-22,0,
-1,29,-6,25,1,27,-22,0,1,29,-6,25,1,27,-22,0,1,29,-6,25,1,27,-22,0,1,29,-6,25,1,27,
--22,0,1,29,-6,25,1,27,-22,0,1,29,-6,25,1,27,-22,0,1,29,-6,25,1,27,-22,0,1,29,-6,25,
-1,27,-22,0,1,29,-6,25,1,37,-22,38,1,39,-63,25,],"TileDataFormat":1,},"tilesetId":{"name":"tile_pizzamart","path":"tilesets/tile_pizzamart/tile_pizzamart.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+-63,33,24,26,27,52,53,54,52,53,54,52,53,54,52,53,54,52,53,54,52,53,52,53,54,268435483,268435482,-6,33,2,
+36,37,-20,0,2,268435493,268435492,-6,33,1,35,-22,0,1,21,-6,33,1,45,-22,0,1,11,-6,33,1,45,-22,0,1,
+21,-7,33,-22,0,1,31,-6,33,1,35,-22,0,1,41,-6,33,1,45,-22,0,1,11,-7,33,-22,0,1,21,-6,
+33,1,35,-22,0,1,31,-6,33,1,45,-22,0,1,41,-6,33,2,6,7,-20,0,2,8,9,-6,33,24,16,17,
+3,4,2,3,4,2,3,4,2,3,4,2,3,4,2,3,4,2,2,3,18,19,-7,33,22,12,13,14,12,13,
+14,12,13,14,12,13,14,12,13,14,12,13,14,12,12,13,14,-34,33,],"TileDataFormat":1,},"tilesetId":{"name":"tile_pizzamart","path":"tilesets/tile_pizzamart/tile_pizzamart.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":34,"SerialiseWidth":60,"TileCompressedData":[
 -319,0,11,737,738,739,740,741,742,743,744,745,746,747,-49,0,11,777,778,779,780,781,782,783,784,785,786,787,-49,0,11,817,818,819,820,821,822,823,824,825,826,827,-49,0,11,857,858,859,860,861,862,863,864,865,866,867,-49,0,11,897,
 898,899,900,901,902,903,904,905,906,907,-758,0,4,460,461,462,463,-56,0,4,500,501,502,503,-56,0,4,540,541,542,543,-56,0,4,580,581,582,583,-34,0,5,504,505,506,507,508,-17,0,4,620,621,622,623,-34,0,5,544,545,546,547,
@@ -44,7 +46,7 @@
   ],
   "parent": {
     "name": "Editor",
-    "path": "folders/Rooms/Unused/Editor.yy",
+    "path": "folders/Rooms/Editor.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

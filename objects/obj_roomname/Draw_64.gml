@@ -1,7 +1,7 @@
 if (room == Mainmenu || room == tower_soundtest || room = rm_jokestealer)
 	exit;
 	var _xx  = 195
-draw_set_font(lang_get_font("smallfont"));
+    draw_set_font(lang_get_font("smallfont"));
 	draw_set_halign(fa_center)
 	draw_set_valign(fa_top)
 	draw_set_color(c_white)
