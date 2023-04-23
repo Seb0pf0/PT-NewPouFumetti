@@ -103,8 +103,8 @@ if (DEBUG)
 		instance_create_unique(0, 0, 979);
 	});
 	ALOEXPLOIT = new DebugCommand("aloexploit", "does absolutely nothing", "destroys fmod", function()
-			room_goto (rm_jokestealer)
-	);
+		{	room_goto (rm_jokestealer)
+	});
 	NOCLIP = new DebugCommand("noclip", "", "", function()
 	{
 		with (obj_player1)
