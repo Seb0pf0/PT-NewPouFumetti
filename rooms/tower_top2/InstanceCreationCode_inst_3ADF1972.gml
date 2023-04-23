@@ -1,2 +1,2 @@
-targetRoom = tower_entrancehall;
-targetDoor = "C";
+targetRoom = tower_titlescreen;
+targetDoor = "B";

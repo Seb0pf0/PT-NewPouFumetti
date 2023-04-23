@@ -40,7 +40,7 @@ add_music(tower_e3, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state
 add_music(tower_4, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_5, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_top, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
-add_music(tower_top2, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
+add_music(tower_top2, "event:/music/pillarmusic", -4, 0)
 add_music(tower_soc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_soc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_oldzone, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)

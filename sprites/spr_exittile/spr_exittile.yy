@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_exittile",
-  "bbox_bottom": 703,
+  "bbox_bottom": 927,
   "bbox_left": 0,
-  "bbox_right": 923,
+  "bbox_right": 1279,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7e6df8d0-3b7b-40e3-ac51-b1a5fe36d036",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"28b00a63-ca63-48ad-9cee-cdad72e37070",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 768,
+  "height": 1056,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"98f276d5-ab0b-4a7e-9c15-e41aff9a3e0d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a8d786f4-9195-491e-a9cd-f137f512f1cf","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7e6df8d0-3b7b-40e3-ac51-b1a5fe36d036","path":"sprites/spr_exittile/spr_exittile.yy",},},},"Disabled":false,"id":"f2ae4336-48fc-422d-9d83-c98836e460d2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"28b00a63-ca63-48ad-9cee-cdad72e37070","path":"sprites/spr_exittile/spr_exittile.yy",},},},"Disabled":false,"id":"96e7175b-1666-4809-8419-81ebfe16aa53","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
