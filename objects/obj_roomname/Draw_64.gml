@@ -1,7 +1,8 @@
 if (room == Mainmenu || room == tower_soundtest || room = rm_jokestealer)
 	exit;
 	var _xx  = 195
-    draw_set_font(lang_get_font("smallfont"));
+    font = font_add_sprite_ext(spr_smallfont, "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!.-1234567890:;?", 1, -2)
+    draw_set_font(font);
 	draw_set_halign(fa_center)
 	draw_set_valign(fa_top)
 	draw_set_color(c_white)

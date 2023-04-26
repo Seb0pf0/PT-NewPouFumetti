@@ -248,7 +248,7 @@ rank_totalenemies = "NEMICI UCCISI: "
 # ---------------
 # ROOM NAMES
 # ---------------
-room_towerentrance = "ENTRATA DI PIZZA TOWER"
+room_towerentrance = "Entrata di Pizza Tower"
 room_towerjohngutter = "SETTORE JOHN"
 room_tower1 = "PIANO TERRA"
 room_tower2 = "DISTRETTO VECCHIO WEST"

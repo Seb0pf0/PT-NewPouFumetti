@@ -93,7 +93,7 @@ if (DEBUG)
 		else
 			global.throwarc = argument0;
 	});
-	GOTOEDITOR = new DebugCommand("editor", "", "", function()
+	GOTOEDITOR = new DebugCommand("gotoeditor", "", "", function()
 	{
 		with (obj_player)
 		{
@@ -102,8 +102,9 @@ if (DEBUG)
 		}
 		instance_create_unique(0, 0, 979);
 	});
-	ALOEXPLOIT = new DebugCommand("aloexploit", "does absolutely nothing", "destroys fmod", function()
-		{	room_goto (rm_jokestealer)
+	ALOEXPLOIT = new DebugCommand("aloexploit", "does absolutely nothing and destroys fmod", "", function()
+	{
+			room_goto (rm_jokestealer)
 	});
 	NOCLIP = new DebugCommand("noclip", "", "", function()
 	{
@@ -289,6 +290,9 @@ if (DEBUG)
 							break;
 						case 191:
 							_spr = spr_player_ratmountidle;
+							break;
+					    case states.rocket:
+							_spr = spr_player_rocket;
 							break;
 					}
 					sprite_index = _spr;

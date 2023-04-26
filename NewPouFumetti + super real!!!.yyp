@@ -432,6 +432,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Champ","folderPath":"folders/Rooms/Levels/Champ.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},
@@ -3508,6 +3509,7 @@
     {"id":{"name":"spr_player_suplexdashend","path":"sprites/spr_player_suplexdashend/spr_player_suplexdashend.yy",},},
     {"id":{"name":"spr_knightpep_hitbox","path":"sprites/spr_knightpep_hitbox/spr_knightpep_hitbox.yy",},},
     {"id":{"name":"spr_ninja_scared","path":"sprites/spr_ninja_scared/spr_ninja_scared.yy",},},
+    {"id":{"name":"champ_1","path":"rooms/champ_1/champ_1.yy",},},
     {"id":{"name":"spr_swordhitbox","path":"sprites/spr_swordhitbox/spr_swordhitbox.yy",},},
     {"id":{"name":"spr_knightpep_land","path":"sprites/spr_knightpep_land/spr_knightpep_land.yy",},},
     {"id":{"name":"spr_pizzahead_bigpunch","path":"sprites/spr_pizzahead_bigpunch/spr_pizzahead_bigpunch.yy",},},
@@ -5575,6 +5577,7 @@
     {"id":{"name":"bg_kungfucity","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},},
     {"id":{"name":"tile_kunfucity","path":"sprites/tile_kunfucity/tile_kunfucity.yy",},},
     {"id":{"name":"bg_kungfugraffiti","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},},
+    {"id":{"name":"bg_towere2","path":"sprites/bg_towere2/bg_towere2.yy",},},
     {"id":{"name":"bg_minigolf1","path":"sprites/bg_minigolf1/bg_minigolf1.yy",},},
     {"id":{"name":"bg_minigolf2","path":"sprites/bg_minigolf2/bg_minigolf2.yy",},},
     {"id":{"name":"bg_minigolf3","path":"sprites/bg_minigolf3/bg_minigolf3.yy",},},
@@ -8182,6 +8185,7 @@
     {"roomId":{"name":"tower_npfhq","path":"rooms/tower_npfhq/tower_npfhq.yy",},},
     {"roomId":{"name":"rm_jokestealer","path":"rooms/rm_jokestealer/rm_jokestealer.yy",},},
     {"roomId":{"name":"tower_titlescreen","path":"rooms/tower_titlescreen/tower_titlescreen.yy",},},
+    {"roomId":{"name":"champ_1","path":"rooms/champ_1/champ_1.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},

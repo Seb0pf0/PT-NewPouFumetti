@@ -128,6 +128,7 @@
     {"name":"Unused","order":11,"path":"folders/Sprites/Unused.yy",},
     {"name":"Tile Sets","order":22,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":23,"path":"folders/Timelines.yy",},
+    {"name":"Champ","order":34,"path":"folders/Rooms/Levels/Champ.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_hardmode","order":455,"path":"objects/obj_hardmode/obj_hardmode.yy",},
@@ -875,6 +876,7 @@
     {"name":"spr_current","order":33,"path":"sprites/spr_current/spr_current.yy",},
     {"name":"spr_pizzagrannytexture","order":29,"path":"sprites/spr_pizzagrannytexture/spr_pizzagrannytexture.yy",},
     {"name":"spr_sideventilator","order":31,"path":"sprites/spr_sideventilator/spr_sideventilator.yy",},
+    {"name":"bg_towere2","order":16,"path":"sprites/bg_towere2/bg_towere2.yy",},
     {"name":"spr_fakesanta_dead","order":30,"path":"sprites/spr_fakesanta_dead/spr_fakesanta_dead.yy",},
     {"name":"spr_golfhoop","order":29,"path":"sprites/spr_golfhoop/spr_golfhoop.yy",},
     {"name":"spr_captaingoblin_canon","order":28,"path":"sprites/spr_captaingoblin_canon/spr_captaingoblin_canon.yy",},

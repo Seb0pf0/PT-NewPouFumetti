@@ -1,12 +1,13 @@
 // fetch toppins, secrets, treasures, achievements and damage
 ini_open_from_string(obj_savesystem.ini_str);
 
-var lvl = ["entrance", "medieval", "ruin", "dungeon", "badland", "graveyard", "farm", "saloon", "plage", "forest", "space", "minigolf", "street", "sewer", "industrial", "freezer", "chateau", "kidsparty", "war", "fruit", "orange", "waterfall", "jungle", "seacon", "arcade", "felia", "kungfu", "oven", "strongcold", "mansion", "cantiere", "library", "top", "tbd", "racing", "glitch", "champ", "desert"];
+var lvl = ["entrance", "medieval", "ruin", "dungeon", "badland", "graveyard", "farm", "saloon", "plage", "forest", "space", "minigolf", "street", "sewer", "industrial", "freezer", "chateau", "kidsparty", "war"];
+var lvlex = ["fruit", "orange", "waterfall", "jungle", "seacon", "arcade", "felia", "kungfu", "oven", "strongcold", "mansion", "cantiere", "library", "top", "tbd", "racing", "glitch", "champ", "desert", "artificial", "house", "fridge", "golf2", "trash"]
 var extra_ach = ["sranks1", "pranks1", "sranks2", "pranks2", "sranks3", "pranks3", "sranks4", "pranks4", "sranks5", "pranks5", "pepperman", "vigilante", "noise", "fakepep", "pizzaface"];
 
-maxtoppins = array_length(lvl) * 5;
+maxtoppins = array_length(lvl) * 5 + array_length(lvlex) * 5;
 toppins = 0;
-maxsecrets = array_length(lvl) * 3;
+maxsecrets = array_length(lvl) * 3 + array_length(lvlex) * 3;
 secrets = 0;
 maxtreasure = array_length(lvl);
 treasure = 0;

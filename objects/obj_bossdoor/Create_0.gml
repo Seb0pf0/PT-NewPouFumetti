@@ -6,3 +6,5 @@ vsp = 0;
 grav = 0.5;
 targetRoom = -4;
 targetDoor = "A";
+transfotip = -4
+msg = ""

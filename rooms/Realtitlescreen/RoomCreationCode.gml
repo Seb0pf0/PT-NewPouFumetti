@@ -316,6 +316,7 @@ global.stickreq[5] = 180;
 global.stickreq[6] = 210;
 global.stickreq[7] = 240;
 global.stickreq[8] = 450;
+global.stickreq[9] = 1000;
 global.levelattempts = 0;
 global.palette_arr = [false, false, false, false, false];
 for (var i = 0; i < array_length(data_arr); i++)

@@ -1,6 +1,6 @@
 if sprite_exists(sprite_index)
 	draw_self();
-font = font_add_sprite_ext(spr_smallfont, "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!.-1234567890:?", 1, -2)
+font = font_add_sprite_ext(spr_smallfont, "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!.-1234567890:;?", 1, -2)
 draw_set_font(font);
 draw_set_colour(c_white);
 draw_set_halign(fa_center);

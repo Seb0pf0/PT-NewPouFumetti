@@ -1,5 +1,3 @@
-if (state != states.jump)
-	event_inherited();
 if (other.state != (98 << 0) && other.state != (290 << 0))
 {
     if (!instance_exists(transfotip))
