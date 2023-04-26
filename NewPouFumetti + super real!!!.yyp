@@ -71,6 +71,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Arcade","folderPath":"folders/Rooms/Levels/Arcade.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Badland","folderPath":"folders/Rooms/Levels/Badland.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cantiere","folderPath":"folders/Rooms/Levels/Cantiere.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Champ","folderPath":"folders/Rooms/Levels/Champ.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Chateau","folderPath":"folders/Rooms/Levels/Chateau.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dungeon","folderPath":"folders/Rooms/Levels/Dungeon.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Entrance","folderPath":"folders/Rooms/Levels/Entrance.yy",},
@@ -432,7 +433,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Champ","folderPath":"folders/Rooms/Levels/Champ.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},
