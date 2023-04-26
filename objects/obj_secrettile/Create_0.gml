@@ -224,6 +224,9 @@ for (var i = 0; i < 3; i++)
 			case tile_exit:
 				t = spr_exittile
 				break
+			case tile_towerfloor3:
+				t = spr_towerfloor3tiles2
+				break
 		}
 		
 		tilemap_sprite[i] = t;
