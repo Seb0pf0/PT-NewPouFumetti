@@ -899,6 +899,7 @@
     {"name":"spr_cowbounce","order":22,"path":"sprites/spr_cowbounce/spr_cowbounce.yy",},
     {"name":"spr_font_combo","order":21,"path":"sprites/spr_font_combo/spr_font_combo.yy",},
     {"name":"boss_witchp2","order":4,"path":"rooms/boss_witchp2/boss_witchp2.yy",},
+    {"name":"tower_champlobby","order":12,"path":"rooms/tower_champlobby/tower_champlobby.yy",},
     {"name":"spr_medievalwindow","order":21,"path":"sprites/spr_medievalwindow/spr_medievalwindow.yy",},
     {"name":"oven_intro2","order":1,"path":"rooms/oven_intro2/oven_intro2.yy",},
     {"name":"spr_newclothes","order":20,"path":"sprites/spr_newclothes/spr_newclothes.yy",},

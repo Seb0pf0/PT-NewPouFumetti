@@ -143,7 +143,7 @@ switch (state)
 					with (instance_create(x, y, obj_stick_gateprop))
 					{
 						targetRoom = other.targetRoom;
-						if (room != tower_top)
+						if (room != tower_top && room !=tower_soc)
 						{
 							group_arr = other.group_arr;
 							sprite_index = other.gate_sprite;

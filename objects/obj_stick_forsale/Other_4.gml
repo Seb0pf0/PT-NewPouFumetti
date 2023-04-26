@@ -15,7 +15,7 @@ if (!unlocked && (global.pigtotal - global.pigreduction) >= maxscore)
 	instance_create(0, 0, obj_mrsticknotification);
 if (unlocked)
 {
-	if (room != tower_top)
+	if (room != tower_top && room != tower_soc)
 	{
 		with (instance_create(x, y, obj_bossdoor))
 		{

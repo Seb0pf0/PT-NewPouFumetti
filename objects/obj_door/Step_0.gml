@@ -12,3 +12,8 @@ if (john && global.panic)
 }
 if ((room == tower_top && targetRoom == tower_pizzafacehall) || room == tower_pizzafacehall)
 	sprite_index = spr_pizzafacedoor;
+	if (room = tower_soc && targetRoom = tower_champlobby)
+	{
+	sprite_index = spr_door
+	image_index = 2
+}
