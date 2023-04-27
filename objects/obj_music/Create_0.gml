@@ -68,6 +68,7 @@ add_music(boss_pizzaface, "event:/music/boss/pizzaface", -4, false, function(roo
 	else if room == boss_pizzafacehub
 		fmod_event_instance_set_parameter(parameter, "state", 5, false);
 });
+add_music(exit_1, "event:/music/soundtest/notime", -4, false);
 add_music(entrance_1, "event:/music/w1/entrance", "event:/music/w1/entrancesecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_3195_gml_Object_obj_music_Create_0
 {
 	var s = 0
@@ -340,4 +341,5 @@ add_music(street_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0,
 add_music(chateau_1, "event:/music/w5/chateau", "event:/music/w1/medievalsecret", 0)
 add_music(kidsparty_1, "event:/music/w5/kidsparty", "event:/music/w5/kidspartysecret", 0)
 add_music(war_1, "event:/music/w5/war", "event:/music/w5/warsecret", 0)
-add_music(top_2, "event:/music/w5/chateau", "event:/music/w1/medievalsecret", 0)
+//add_music(top_2, "event:/music/w5/chateau", "event:/music/w1/medievalsecret", 0)
+add_music(top_2, "event:/music/soundtest/notime", -4, false);
