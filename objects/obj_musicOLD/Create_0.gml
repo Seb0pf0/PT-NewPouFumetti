@@ -8,7 +8,7 @@ fadeoff = 0
 global.music = 0
 roomname = 741
 arena = 0
-global.mu = mu_mansion
+global.mu = -4
 music = -4
 secretmusic = -4
 musicID = -4
@@ -24,7 +24,7 @@ secretpos = 0
 normalpos = 0
 stopmusic = 0
 specialstop = 0
-room_arr = [[mansion_1, mu_mansion, mu_mansion, 1]]
+//room_arr = [[mansion_1, mu_mansion, mu_mansion, 1]]
 with (obj_music)
 {
     if (music != -4)

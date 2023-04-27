@@ -1,4 +1,4 @@
-targetRoom = arcade_1;
+targetRoom = festival_1;
 level = "arcade";
 sprite_index = spr_gate_street;
 bgsprite = spr_gate_streetBG;

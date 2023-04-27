@@ -1,4 +1,4 @@
-room_arr = [[570, 0, 2, 1]]
+/*room_arr = [[570, 0, 2, 1]]
 var theroomname = room_get_name(room)
 if (string_pos("tower", theroomname) != 0)
 {
