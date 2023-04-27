@@ -13,15 +13,15 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"60201ebd-ae0a-4770-a5d4-2becff3bbcbe",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f6690f1-404d-44c8-b223-33dab7799fa8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e948139a-5544-4324-a255-661d711fe5ab",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bdbda70c-fe5f-45a0-87d6-107f08b7e616",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 256,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f358c531-bc21-4234-a1b7-9cfad61abd69","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"251daef7-63b1-4c30-ab15-9fe4e44c71b4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 7,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"60201ebd-ae0a-4770-a5d4-2becff3bbcbe","path":"sprites/spr_gate_kungfuBG/spr_gate_kungfuBG.yy",},},},"Disabled":false,"id":"f69188f1-667d-45c5-a1f6-602e50123874","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8f6690f1-404d-44c8-b223-33dab7799fa8","path":"sprites/spr_gate_kungfuBG/spr_gate_kungfuBG.yy",},},},"Disabled":false,"id":"b2bb763a-91ca-494a-8181-1b03fa75a42d","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e948139a-5544-4324-a255-661d711fe5ab","path":"sprites/spr_gate_kungfuBG/spr_gate_kungfuBG.yy",},},},"Disabled":false,"id":"cb6948dd-57aa-4bfd-bdac-25b2b2ae5902","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bdbda70c-fe5f-45a0-87d6-107f08b7e616","path":"sprites/spr_gate_kungfuBG/spr_gate_kungfuBG.yy",},},},"Disabled":false,"id":"35daa534-92ef-48c3-ae67-bf4f0a306cfb","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -67,8 +67,8 @@
   "swatchColours": null,
   "swfPrecision": 2.525,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "hubgroup",
+    "path": "texturegroups/hubgroup",
   },
   "type": 0,
   "VTile": false,

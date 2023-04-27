@@ -1,6 +1,6 @@
 targetRoom = kungfu_1;
 level = "kungfu";
-sprite_index = spr_gate_street;
+sprite_index = spr_gate_kungfu;
 bgsprite = spr_gate_kungfuBG;
 title_index = 2;
 title_sprite = spr_titlecards_title2;

@@ -1,1 +1,1 @@
-text = "i like this place, is calm and warm";
+text = "i like this place, its calm and warm";

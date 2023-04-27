@@ -4394,6 +4394,7 @@
     {"id":{"name":"spr_debrisescape","path":"sprites/spr_debrisescape/spr_debrisescape.yy",},},
     {"id":{"name":"spr_bombdebris","path":"sprites/spr_bombdebris/spr_bombdebris.yy",},},
     {"id":{"name":"spr_pepperman_statues1","path":"sprites/spr_pepperman_statues1/spr_pepperman_statues1.yy",},},
+    {"id":{"name":"spr_gate_kungfu","path":"sprites/spr_gate_kungfu/spr_gate_kungfu.yy",},},
     {"id":{"name":"spr_intro_spiralBG","path":"sprites/spr_intro_spiralBG/spr_intro_spiralBG.yy",},},
     {"id":{"name":"spr_tv_clownN","path":"sprites/spr_tv_clownN/spr_tv_clownN.yy",},},
     {"id":{"name":"spr_grandmascared","path":"sprites/spr_grandmascared/spr_grandmascared.yy",},},

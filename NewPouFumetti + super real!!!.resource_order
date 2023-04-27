@@ -763,6 +763,7 @@
     {"name":"spr_taxicop","order":97,"path":"sprites/spr_taxicop/spr_taxicop.yy",},
     {"name":"spr_towerfloor3tiles2","order":1,"path":"sprites/spr_towerfloor3tiles2/spr_towerfloor3tiles2.yy",},
     {"name":"mansion_1a","order":1,"path":"rooms/mansion_1a/mansion_1a.yy",},
+    {"name":"spr_gate_kungfu","order":2,"path":"sprites/spr_gate_kungfu/spr_gate_kungfu.yy",},
     {"name":"spr_frozenblock","order":96,"path":"sprites/spr_frozenblock/spr_frozenblock.yy",},
     {"name":"spr_thunder","order":94,"path":"sprites/spr_thunder/spr_thunder.yy",},
     {"name":"spr_balloonpop","order":95,"path":"sprites/spr_balloonpop/spr_balloonpop.yy",},
