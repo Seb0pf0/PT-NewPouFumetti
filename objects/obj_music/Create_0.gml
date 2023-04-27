@@ -75,7 +75,7 @@ add_music(entrance_1, "event:/music/w1/entrance", "event:/music/w1/entrancesecre
 	return;
 }
 )
-add_music(mansion_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_3410_gml_Object_obj_music_Create_0
+add_music(mansion_1, "event:/music/pillarmusic", "event:/music/w1/medievalsecret", 0) //anon_gml_Object_obj_music_Create_0_3410_gml_Object_obj_music_Create_0
 {
 	s = -1
 	switch room
@@ -87,12 +87,12 @@ add_music(mansion_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret
             s = 2
 			break
 		}	
-				if (s != -1)
+	 if (s != -1)
 		fmod_event_instance_set_parameter(event, "state", s, 1)
 	return;
 }
 )
-add_music(medieval_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_3410_gml_Object_obj_music_Create_0
+add_music(medieval_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret)
 {
 	s = -1
 	switch room

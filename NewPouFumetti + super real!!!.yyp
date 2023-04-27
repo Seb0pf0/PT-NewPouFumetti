@@ -6896,7 +6896,6 @@
     {"id":{"name":"spr_kitchen","path":"sprites/spr_kitchen/spr_kitchen.yy",},},
     {"id":{"name":"spr_ratblock1_dead","path":"sprites/spr_ratblock1_dead/spr_ratblock1_dead.yy",},},
     {"id":{"name":"spr_tv_cheeseballN","path":"sprites/spr_tv_cheeseballN/spr_tv_cheeseballN.yy",},},
-    {"id":{"name":"mu_test","path":"sounds/mu_test/mu_test.yy",},},
     {"id":{"name":"spr_pepbat_idle","path":"sprites/spr_pepbat_idle/spr_pepbat_idle.yy",},},
     {"id":{"name":"spr_point","path":"sprites/spr_point/spr_point.yy",},},
     {"id":{"name":"spr_chateauwall","path":"sprites/spr_chateauwall/spr_chateauwall.yy",},},
