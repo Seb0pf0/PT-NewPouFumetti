@@ -78,3 +78,7 @@ if (state != states.hit)
 	player_instakillmove = false;
 if (fmod_event_instance_is_playing(chargesnd) && state != states.charge)
 	fmod_event_instance_stop(chargesnd);
+if (global.elitechallenge = 1)
+elite = 1
+else
+elite = 0

@@ -24,3 +24,22 @@ if (other.state != states.gotoplayer)
 		number = string(val);
 	instance_destroy();
 }
+if (global.veganchallenge = 1)
+{
+with (obj_player)
+	{
+		
+		targetDoor = "A";
+		room = timesuproom;
+		state = states.timesup;
+		sprite_index = spr_Timesup;
+		image_index = 0;
+		if (isgustavo)
+			sprite_index = spr_player_ratmounttimesup;
+		visible = true;
+		image_blend = c_white;
+		//audio_stop_all();
+		stop_music();
+		fmod_event_one_shot("event:/music/timesup");
+	}
+	}

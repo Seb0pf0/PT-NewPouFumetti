@@ -80,6 +80,7 @@ function hub_state(_room, _sound, _secretsound)
 		case tower_sage:
 		case tower_sasso:
 		case tower_champlobby:
+		case tower_aloelab:
 			s = 2;
 			break;
 		

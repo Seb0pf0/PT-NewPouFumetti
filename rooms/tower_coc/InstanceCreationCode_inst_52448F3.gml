@@ -1,2 +1,2 @@
 targetRoom = tower_aloelab
-msg = "Extra Challenges WIP"
+msg = "Aloe Laboratory"

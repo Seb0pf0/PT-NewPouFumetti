@@ -129,6 +129,7 @@
     {"name":"Unused","order":11,"path":"folders/Sprites/Unused.yy",},
     {"name":"Tile Sets","order":22,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":23,"path":"folders/Timelines.yy",},
+    {"name":"Aloe Challenges","order":17,"path":"folders/Objects/Aloe Challenges.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_hardmode","order":455,"path":"objects/obj_hardmode/obj_hardmode.yy",},
@@ -772,6 +773,7 @@
     {"name":"spr_balloonpop","order":95,"path":"sprites/spr_balloonpop/spr_balloonpop.yy",},
     {"name":"spr_sirnose_cooldown","order":93,"path":"sprites/spr_sirnose_cooldown/spr_sirnose_cooldown.yy",},
     {"name":"spr_itspizzatime","order":67,"path":"sprites/spr_itspizzatime/spr_itspizzatime.yy",},
+    {"name":"obj_pacifistchallenge","order":1,"path":"objects/obj_pacifistchallenge/obj_pacifistchallenge.yy",},
     {"name":"spr_grabicon","order":66,"path":"sprites/spr_grabicon/spr_grabicon.yy",},
     {"name":"tower_coc","order":2,"path":"rooms/tower_coc/tower_coc.yy",},
     {"name":"spr_inv","order":65,"path":"sprites/spr_inv/spr_inv.yy",},
@@ -892,6 +894,7 @@
     {"name":"spr_captaingoblin_end","order":27,"path":"sprites/spr_captaingoblin_end/spr_captaingoblin_end.yy",},
     {"name":"spr_pipe_enter","order":27,"path":"sprites/spr_pipe_enter/spr_pipe_enter.yy",},
     {"name":"spr_stickmoney_font","order":26,"path":"sprites/spr_stickmoney_font/spr_stickmoney_font.yy",},
+    {"name":"obj_veganmodeswitch","order":2,"path":"objects/obj_veganmodeswitch/obj_veganmodeswitch.yy",},
     {"name":"spr_font_collect","order":25,"path":"sprites/spr_font_collect/spr_font_collect.yy",},
     {"name":"fruit_2","order":1,"path":"rooms/fruit_2/fruit_2.yy",},
     {"name":"spr_tutorialkey","order":24,"path":"sprites/spr_tutorialkey/spr_tutorialkey.yy",},
