@@ -78,6 +78,7 @@
     {"name":"inst_1805B760","path":"rooms/tower_soc/tower_soc.yy",},
     {"name":"inst_436B1656","path":"rooms/tower_soc/tower_soc.yy",},
     {"name":"inst_719BF2D4","path":"rooms/tower_soc/tower_soc.yy",},
+    {"name":"inst_32DD0343","path":"rooms/tower_soc/tower_soc.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -153,6 +154,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1805B760","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_stick_forsale2","path":"objects/obj_stick_forsale2/obj_stick_forsale2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_436B1656","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_stick_target","path":"objects/obj_stick_target/obj_stick_target.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":556.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_719BF2D4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_doorF","path":"objects/obj_doorF/obj_doorF.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32DD0343","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_verticalhallway","path":"objects/obj_verticalhallway/obj_verticalhallway.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":1.0,"x":544.0,"y":2272.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_21E331A0","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"bg_sagebuilding","path":"sprites/bg_sagebuilding/bg_sagebuilding.yy",},"x":576.0,"y":360.0,},

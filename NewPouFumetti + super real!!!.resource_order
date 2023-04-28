@@ -632,7 +632,7 @@
     {"name":"obj_bigtombstone","order":2,"path":"objects/obj_bigtombstone/obj_bigtombstone.yy",},
     {"name":"Loadiingroom","order":2,"path":"rooms/Loadiingroom/Loadiingroom.yy",},
     {"name":"Realtitlescreen","order":1,"path":"rooms/Realtitlescreen/Realtitlescreen.yy",},
-    {"name":"tower_npfoutside","order":19,"path":"rooms/tower_npfoutside/tower_npfoutside.yy",},
+    {"name":"tower_npfoutside","order":14,"path":"rooms/tower_npfoutside/tower_npfoutside.yy",},
     {"name":"ufo_1","order":23,"path":"rooms/ufo_1/ufo_1.yy",},
     {"name":"ufo_2","order":24,"path":"rooms/ufo_2/ufo_2.yy",},
     {"name":"ufo_3","order":25,"path":"rooms/ufo_3/ufo_3.yy",},
