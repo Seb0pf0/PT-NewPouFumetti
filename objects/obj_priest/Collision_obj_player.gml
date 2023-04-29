@@ -13,7 +13,10 @@ with (other)
 			movespeed = abs(hsp);
 		}
 		transformationsnd = false;
+		if obj_player1.isgustavo = 0
 		state = states.normal;
+		else
+		state = states.ratmount
 		sprite_index = spr_idle;
 		dir = xscale;
 		ghostdash = false;
