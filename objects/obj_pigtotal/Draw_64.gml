@@ -1,5 +1,7 @@
 if (is_bossroom() || instance_exists(obj_achievementviewer))
 	exit;
+	if (room = tower_sebag || room = tower_killasnotty)
+	exit
 draw_set_font(global.moneyfont);
 draw_set_halign(1);
 draw_set_valign(0);

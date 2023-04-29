@@ -43,6 +43,7 @@ add_music(tower_top, "event:/music/hub", "event:/music/pillarmusic", 0, hub_stat
 add_music(tower_top2, "event:/sfx/misc/windloop", -4, 0)
 add_music(tower_soc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_coc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
+add_music(tower_killasnotty, "event:/music/soundtest/plains", "event:/music/pillarmusic", 0)
 add_music(tower_oldzone, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_sage, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(rm_jokestealer, "event:/music/pillarmusic", -4, 0)

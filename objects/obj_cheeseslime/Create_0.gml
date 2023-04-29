@@ -45,3 +45,5 @@ grabbedby = 0;
 stuntouchbuffer = 0;
 scaredbuffer = 0;
 snotty = false;
+if (room = tower_killasnotty)
+snotty = 1

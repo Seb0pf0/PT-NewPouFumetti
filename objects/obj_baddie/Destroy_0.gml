@@ -64,6 +64,7 @@ if (ds_list_find_index(global.baddieroom, id) == -1 && (!elite || elitehit <= 0)
 				sprite_index = spr_tank_wheel;
 		}
 	}
+	/*
 	if (object_index == obj_cheeseslime && snotty)
 	{
 		ini_open_from_string(obj_savesystem.ini_str);
@@ -71,6 +72,7 @@ if (ds_list_find_index(global.baddieroom, id) == -1 && (!elite || elitehit <= 0)
 		obj_savesystem.ini_str = ini_close();
 		gamesave_async_save();
 	}
+	*/
 	notification_push(notifs.baddie_kill, [room, id, object_index]);
 }
 if (ds_list_find_index(global.baddieroom, id) == -1 && important == 0)
