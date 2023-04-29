@@ -20,6 +20,9 @@ if (state == states.tube)
 					x += sign(other.image_xscale);
 			}
 			machhitAnim = false;
+			if obj_player.isgustavo = 1
+            state = states.ratmount
+            else
 			state = states.mach3;
 			if (movespeed < 14)
 				movespeed = 14;

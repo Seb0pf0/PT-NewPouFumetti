@@ -10,3 +10,5 @@ if (place_meeting(x + 1, y, object_index) && place_meeting(x - 1, y, object_inde
 	use_sound = false;
 if (use_sound && place_meeting(x + 1, y, object_index) && !place_meeting(x - 1, y, object_index))
 	use_sound = false;
+if obj_player.isgustavo = 1
+instance_destroy()
