@@ -146,5 +146,10 @@ var logo_set = "large_image"
 np_setpresence (concat("Score ", global.collect),global.roommessage, "large_image", "");
 np_update();
 }
-if (global.pacifistchallenge = 1 && !instance_exists(obj_pizzaface))
+if (global.pacifistchallenge = 1 && !instance_exists(obj_pizzaface)&& object_index !=obj_cheeseslime)
 instance_create(x, y, obj_pizzaface)
+else if (global.pacifistchallenge = 1 && !instance_exists(obj_pizzaface)&& object_index =obj_cheeseslime)
+{
+if snotty = 0
+instance_create(x, y, obj_pizzaface)
+}
