@@ -80,7 +80,7 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 			global.fill = 2640;
 			break;
 			case kungfu_10:
-			global.fill = 2640;
+			global.fill = 3240;
 			break;
 		case chateau_9:
 			lay = layer_get_id("Backgrounds_stillH1");
@@ -93,7 +93,7 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 		case mansion_7:
 			lay = layer_get_id("Backgrounds_H1");
 			layer_background_sprite(layer_background_get_id(lay), bg_castle3escape);
-			global.fill = 3226;
+			global.fill = 3026;
 			break;
 		case tower_finalhallway:
 			global.fill = 4056;
