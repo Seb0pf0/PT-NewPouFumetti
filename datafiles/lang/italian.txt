@@ -224,13 +224,13 @@ option_controller_groundpound = "SCHIANTO A TERRA JOYSTICK"
 # ---------------
 # MISC TEXT
 # ---------------
-menu_delete = "HOLD TO DELETE SAVE%"
-menu_controller_disconnected = "CONTROLLER DISCONNECTED\n\nPRESS START TO CONTINUE"
+menu_delete = "TIENI PREMUTO PER CANCELLARE IL SALV%"
+menu_controller_disconnected = "CONTROLLER DISCONNESSO\n\nPREMI START PER CONTINUARE"
 menu_exit = "VUOI USCIRE?"
 menu_skip = "Premi [G] per saltare"
 menu_loading = "CARICAMENTO..."
 peppinohurt = "{s}Hai fatto male a Peppino % volte.../"
-gustavohurt = "{s}Hai fatto male a % volte.../"
+gustavohurt = "{s}Hai fatto male a Gustavo % volte.../"
 mrsticknotification = "{u}Vai da Mr Stick per comprare un livello Boss!/"
 mrmooneynotification = "{u}Aiuteresti Mr Mooney con un po di carita?/"
 computer_text1 = "Condimenti: % su %\nSegreti: % su %\nTesori: % su %"
@@ -249,8 +249,8 @@ rank_totalenemies = "NEMICI UCCISI: "
 # ROOM NAMES
 # ---------------
 room_towerentrance = "Entrata di Pizza Tower"
-room_towerjohngutter = "SETTORE JOHN"
-room_tower1 = "PIANO TERRA"
+room_towerjohngutter = "Settore John"
+room_tower1 = "Piano Terra"
 room_tower2 = "DISTRETTO VECCHIO WEST"
 room_tower3 = "RESORT TROPICALE"
 room_tower4 = "SCARICO"

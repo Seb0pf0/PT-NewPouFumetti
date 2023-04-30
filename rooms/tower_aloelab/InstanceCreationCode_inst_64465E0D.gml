@@ -1,4 +1,4 @@
 dialogue = [
-	"\nThese are some extra challenges to spice up a bit the gameplay\n There are 3 available rn"
+	"\nThese are some extra challenges to spice up a bit the gameplay\nThere are 2 available rn"
 ]
 

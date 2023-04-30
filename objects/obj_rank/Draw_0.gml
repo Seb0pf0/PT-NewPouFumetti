@@ -12,12 +12,51 @@ if (brownfade < 1)
 }
 if (brown)
 {
+	if (global.rank = "p")
+	{
+	draw_set_alpha(brownfade);
+	shader_set(shd_rankP);
+	draw_rectangle_color(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, c_white, c_white, c_white, c_white, false);
+	draw_self();
+	shader_reset();
+	draw_set_alpha(1);
+	}
+	else if (global.rank = "d" || global.rank = "s")
+	{
 	draw_set_alpha(brownfade);
 	shader_set(shd_rank);
 	draw_rectangle_color(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, c_white, c_white, c_white, c_white, false);
 	draw_self();
 	shader_reset();
 	draw_set_alpha(1);
+	}
+	else if (global.rank = "b")
+	{
+	draw_set_alpha(brownfade);
+	shader_set(shd_rankB);
+	draw_rectangle_color(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, c_white, c_white, c_white, c_white, false);
+	draw_self();
+	shader_reset();
+	draw_set_alpha(1);
+	}
+	else if (global.rank = "c")
+	{
+	draw_set_alpha(brownfade);
+	shader_set(shd_rankC);
+	draw_rectangle_color(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, c_white, c_white, c_white, c_white, false);
+	draw_self();
+	shader_reset();
+	draw_set_alpha(1);
+	}
+	else if (global.rank = "a")
+	{
+	draw_set_alpha(brownfade);
+	shader_set(shd_rankA);
+	draw_rectangle_color(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, c_white, c_white, c_white, c_white, false);
+	draw_self();
+	shader_reset();
+	draw_set_alpha(1);
+	}
 }
 var c = c_white;
 var xx = 523;
