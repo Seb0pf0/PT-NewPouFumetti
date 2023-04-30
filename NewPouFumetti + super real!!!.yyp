@@ -108,6 +108,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Chef Task","folderPath":"folders/Rooms/Tower/Chef Task.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Escape","folderPath":"folders/Rooms/Tower/Escape.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"NPF Hubs","folderPath":"folders/Rooms/Tower/NPF Hubs.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SkyChamp","folderPath":"folders/Rooms/Tower/NPF Hubs/SkyChamp.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scrapped Tower","folderPath":"folders/Rooms/Tower/Scrapped Tower.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Secrets","folderPath":"folders/Rooms/Tower/Secrets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tutorial","folderPath":"folders/Rooms/Tower/Tutorial.yy",},
@@ -434,7 +435,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SkyChamp","folderPath":"folders/Rooms/Tower/NPF Hubs/SkyChamp.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},

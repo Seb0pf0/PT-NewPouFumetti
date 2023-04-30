@@ -66,6 +66,7 @@
     {"name":"Chef Task","order":14,"path":"folders/Rooms/Tower/Chef Task.yy",},
     {"name":"Escape","order":15,"path":"folders/Rooms/Tower/Escape.yy",},
     {"name":"NPF Hubs","order":20,"path":"folders/Rooms/Tower/NPF Hubs.yy",},
+    {"name":"SkyChamp","order":15,"path":"folders/Rooms/Tower/NPF Hubs/SkyChamp.yy",},
     {"name":"Scrapped Tower","order":16,"path":"folders/Rooms/Tower/Scrapped Tower.yy",},
     {"name":"Secrets","order":17,"path":"folders/Rooms/Tower/Secrets.yy",},
     {"name":"Tutorial","order":18,"path":"folders/Rooms/Tower/Tutorial.yy",},
@@ -136,7 +137,6 @@
     {"name":"Unused","order":11,"path":"folders/Sprites/Unused.yy",},
     {"name":"Tile Sets","order":22,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":23,"path":"folders/Timelines.yy",},
-    {"name":"SkyChamp","order":15,"path":"folders/Rooms/Tower/NPF Hubs/SkyChamp.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_hardmode","order":455,"path":"objects/obj_hardmode/obj_hardmode.yy",},

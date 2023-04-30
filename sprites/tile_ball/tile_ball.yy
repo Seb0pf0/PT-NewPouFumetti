@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "tile_ball",
-  "bbox_bottom": 191,
-  "bbox_left": 0,
-  "bbox_right": 191,
+  "bbox_bottom": 383,
+  "bbox_left": 32,
+  "bbox_right": 415,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"35afd928-16e4-4f44-9c65-615c7f236d2a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8995f25b-efb7-486c-9f6b-0e4eee611725",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 320,
+  "height": 384,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0f53c06b-14e3-4dc6-a339-f4cd3597905d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3f44bf08-a3af-441a-b560-3df5965e272b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"35afd928-16e4-4f44-9c65-615c7f236d2a","path":"sprites/tile_ball/tile_ball.yy",},},},"Disabled":false,"id":"6dd70e3b-a9b3-4963-9d01-870437bcb489","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8995f25b-efb7-486c-9f6b-0e4eee611725","path":"sprites/tile_ball/tile_ball.yy",},},},"Disabled":false,"id":"4126a121-c34e-4011-8773-e263ca463763","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 320,
+  "width": 448,
 }
