@@ -8,8 +8,8 @@ void main()
 {
 	vec4 source = v_vColour * texture2D(gm_BaseTexture, v_vTexcoord);
 	vec4 color = vec4(0, 0, 0, 0);
-	vec4 black = vec4(80, 0, 0, 255);
-	vec4 brown =  vec4(24, 149, 193, 255);
+	vec4 black = vec4(16, 72, 160, 255);
+	vec4 brown =  vec4(120, 168, 248, 255);
 	black = black / vec4(255, 255, 255, 255);
 	brown = brown / vec4(255, 255, 255, 255);
 	
