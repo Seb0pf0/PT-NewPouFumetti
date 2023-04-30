@@ -3890,7 +3890,6 @@
     {"id":{"name":"spr_hillbilly_dead","path":"sprites/spr_hillbilly_dead/spr_hillbilly_dead.yy",},},
     {"id":{"name":"spr_totemcloud_attack","path":"sprites/spr_totemcloud_attack/spr_totemcloud_attack.yy",},},
     {"id":{"name":"spr_noisevengeful2","path":"sprites/spr_noisevengeful2/spr_noisevengeful2.yy",},},
-    {"id":{"name":"obj_elitemodeswitch","path":"objects/obj_elitemodeswitch/obj_elitemodeswitch.yy",},},
     {"id":{"name":"spr_captainbombdead","path":"sprites/spr_captainbombdead/spr_captainbombdead.yy",},},
     {"id":{"name":"spr_pizzasona1throw","path":"sprites/spr_pizzasona1throw/spr_pizzasona1throw.yy",},},
     {"id":{"name":"pattern_reset","path":"scripts/pattern_reset/pattern_reset.yy",},},

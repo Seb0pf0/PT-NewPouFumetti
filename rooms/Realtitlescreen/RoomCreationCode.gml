@@ -435,7 +435,6 @@ global.mrstickcutscene2 = -4;
 global.mrstickcutscene3 = -4;
 global.chateauswap = -4;
 global.warcutscene = -4;
-global.elitechallenge = 0
 global.pacifistchallenge = 0
 global.veganchallenge = 0
 pal_swap_init_system(shd_pal_swapper);
