@@ -7,4 +7,4 @@ title_sprite = spr_titlecards_title2;
 titlecard_index = 13;
 title_music = "event:/music/w4/sewertitle";
 group_arr = ["sewergroup"];
-msg = "Old Shit!"
+msg = "Old Shit! WIP"

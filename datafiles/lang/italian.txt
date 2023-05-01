@@ -4,7 +4,7 @@
 lang = "ita"
 display_name = "ITALIANO"
 custom_fonts = false
-game_version = "BETA V3"
+game_version = "V0.5.2"
 
 # --------------------
 # CUSTOM FONT EXAMPLE

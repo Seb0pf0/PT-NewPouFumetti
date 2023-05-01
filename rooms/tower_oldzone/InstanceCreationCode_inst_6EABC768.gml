@@ -1,5 +1,5 @@
 targetRoom = golf_room1;
-level = "golftwo";
+level = "golf2";
 sprite_index = spr_gate_golf;
 bgsprite = spr_gate_golfBG;
 title_index = 1;

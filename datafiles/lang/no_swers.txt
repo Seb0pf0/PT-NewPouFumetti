@@ -2,9 +2,9 @@
 # PROPERTIES
 # -----------
 lang = "enc"
-display_name = "CENSORED ENGLISH"
+display_name = "SHART"
 custom_fonts = false
-game_version = "V1.0.311"
+game_version = "V0.5.2"
 
 # ---------------
 # IMPORTANT NOTE
