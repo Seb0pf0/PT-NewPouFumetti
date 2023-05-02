@@ -345,7 +345,7 @@
   ],
   "parent": {
     "name": "Mansion",
-    "path": "folders/Rooms/Levels/Mansion.yy",
+    "path": "folders/Rooms/Levels/WorldE3/Mansion.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

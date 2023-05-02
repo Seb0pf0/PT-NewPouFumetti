@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Seacon",
-    "path": "folders/Rooms/Levels/Seacon.yy",
+    "path": "folders/Rooms/Levels/WorldE2/Seacon.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

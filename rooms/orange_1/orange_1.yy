@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Orange",
-    "path": "folders/Rooms/Levels/Orange.yy",
+    "path": "folders/Rooms/Levels/WorldE1/Orange.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

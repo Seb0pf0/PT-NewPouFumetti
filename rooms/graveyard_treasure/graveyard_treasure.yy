@@ -38,7 +38,7 @@
   ],
   "parent": {
     "name": "Graveyard",
-    "path": "folders/Rooms/Levels/Graveyard.yy",
+    "path": "folders/Rooms/Levels/World2/Graveyard.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

@@ -118,7 +118,7 @@
   ],
   "parent": {
     "name": "Library",
-    "path": "folders/Rooms/Levels/Library.yy",
+    "path": "folders/Rooms/Levels/WorldE3/Library.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

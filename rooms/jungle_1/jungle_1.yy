@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Jungle",
-    "path": "folders/Rooms/Levels/Jungle.yy",
+    "path": "folders/Rooms/Levels/WorldE1/Jungle.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

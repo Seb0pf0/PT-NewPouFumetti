@@ -38,7 +38,7 @@
   ],
   "parent": {
     "name": "Saloon",
-    "path": "folders/Rooms/Levels/Saloon.yy",
+    "path": "folders/Rooms/Levels/World2/Saloon.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

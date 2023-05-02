@@ -195,7 +195,7 @@
   ],
   "parent": {
     "name": "Farm",
-    "path": "folders/Rooms/Levels/Farm.yy",
+    "path": "folders/Rooms/Levels/World2/Farm.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

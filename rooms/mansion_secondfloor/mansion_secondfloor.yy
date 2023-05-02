@@ -96,7 +96,7 @@
   ],
   "parent": {
     "name": "Mansion (SEP21)",
-    "path": "folders/Rooms/Unused/Mansion (SEP21).yy",
+    "path": "folders/Rooms/Unused/2021/Mansion (SEP21).yy",
   },
   "parentRoom": null,
   "physicsSettings": {

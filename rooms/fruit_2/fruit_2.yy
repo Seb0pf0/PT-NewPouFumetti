@@ -44,7 +44,7 @@
   ],
   "parent": {
     "name": "Fruit",
-    "path": "folders/Rooms/Levels/Fruit.yy",
+    "path": "folders/Rooms/Levels/WorldE1/Fruit.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

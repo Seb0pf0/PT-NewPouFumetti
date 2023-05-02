@@ -160,7 +160,7 @@
   ],
   "parent": {
     "name": "Ruin",
-    "path": "folders/Rooms/Levels/Ruin.yy",
+    "path": "folders/Rooms/Levels/World1/Ruin.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

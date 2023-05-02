@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Waterfall",
-    "path": "folders/Rooms/Levels/Waterfall.yy",
+    "path": "folders/Rooms/Levels/WorldE1/Waterfall.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

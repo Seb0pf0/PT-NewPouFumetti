@@ -199,7 +199,7 @@
   ],
   "parent": {
     "name": "Badland",
-    "path": "folders/Rooms/Levels/Badland.yy",
+    "path": "folders/Rooms/Levels/World2/Badland.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

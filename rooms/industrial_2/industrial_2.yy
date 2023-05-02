@@ -687,7 +687,7 @@
   ],
   "parent": {
     "name": "Industrial",
-    "path": "folders/Rooms/Levels/Industrial.yy",
+    "path": "folders/Rooms/Levels/World4/Industrial.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

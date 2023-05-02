@@ -204,7 +204,7 @@
   ],
   "parent": {
     "name": "KungFu",
-    "path": "folders/Rooms/Levels/KungFu.yy",
+    "path": "folders/Rooms/Levels/WorldE2/KungFu.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

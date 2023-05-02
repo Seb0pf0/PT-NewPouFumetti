@@ -129,7 +129,7 @@
   ],
   "parent": {
     "name": "Medieval",
-    "path": "folders/Rooms/Levels/Medieval.yy",
+    "path": "folders/Rooms/Levels/World1/Medieval.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

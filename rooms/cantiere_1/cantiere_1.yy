@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Cantiere",
-    "path": "folders/Rooms/Levels/Cantiere.yy",
+    "path": "folders/Rooms/Levels/WorldE3/Cantiere.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

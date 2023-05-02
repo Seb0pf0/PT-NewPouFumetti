@@ -29,7 +29,7 @@
   ],
   "parent": {
     "name": "Bosses",
-    "path": "folders/Rooms/Unused/Bosses.yy",
+    "path": "folders/Rooms/Unused/2021/Bosses.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

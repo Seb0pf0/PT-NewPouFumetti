@@ -38,7 +38,7 @@
   ],
   "parent": {
     "name": "Street",
-    "path": "folders/Rooms/Levels/Street.yy",
+    "path": "folders/Rooms/Levels/World4/Street.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

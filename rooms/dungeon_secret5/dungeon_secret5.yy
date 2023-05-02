@@ -140,7 +140,7 @@
   ],
   "parent": {
     "name": "Dungeon",
-    "path": "folders/Rooms/Levels/Dungeon.yy",
+    "path": "folders/Rooms/Levels/World1/Dungeon.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

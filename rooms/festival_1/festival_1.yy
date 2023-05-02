@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Festival",
-    "path": "folders/Rooms/Levels/Festival.yy",
+    "path": "folders/Rooms/Levels/WorldE2/Festival.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

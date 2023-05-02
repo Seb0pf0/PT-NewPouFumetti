@@ -131,7 +131,7 @@
   ],
   "parent": {
     "name": "Minigolf",
-    "path": "folders/Rooms/Levels/Minigolf.yy",
+    "path": "folders/Rooms/Levels/World3/Minigolf.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

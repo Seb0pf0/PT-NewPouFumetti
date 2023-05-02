@@ -32,7 +32,7 @@
   ],
   "parent": {
     "name": "Oven",
-    "path": "folders/Rooms/Levels/Oven.yy",
+    "path": "folders/Rooms/Levels/WorldE3/Oven.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

@@ -38,7 +38,7 @@
   ],
   "parent": {
     "name": "Mansion (floor2)",
-    "path": "folders/Rooms/Unused/Mansion (floor2).yy",
+    "path": "folders/Rooms/Unused/2019/Mansion (floor2).yy",
   },
   "parentRoom": null,
   "physicsSettings": {

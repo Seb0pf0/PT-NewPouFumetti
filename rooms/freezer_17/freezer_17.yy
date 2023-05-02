@@ -374,7 +374,7 @@
   ],
   "parent": {
     "name": "Freezer",
-    "path": "folders/Rooms/Levels/Freezer.yy",
+    "path": "folders/Rooms/Levels/World4/Freezer.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

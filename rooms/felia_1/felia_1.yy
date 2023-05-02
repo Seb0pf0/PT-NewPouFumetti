@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Felia",
-    "path": "folders/Rooms/Levels/Felia.yy",
+    "path": "folders/Rooms/Levels/WorldE2/Felia.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
