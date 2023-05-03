@@ -73,14 +73,6 @@ function hub_state(_room, _sound, _secretsound)
 		case tower_3up:
 		case tower_cheftask3:
 		case tower_pizzaland:	
-		case tower_e2:
-		case tower_soc:
-		case tower_coc:
-		case tower_arcade:
-		case tower_sage:
-		case tower_sasso:
-		case tower_champlobby:
-		case tower_aloelab:
 			s = 2;
 			break;
 		
@@ -101,6 +93,17 @@ function hub_state(_room, _sound, _secretsound)
 		case tower_top2:
 		s = 4;
 			break;
+			
+		case tower_e2:
+		case tower_soc:
+		case tower_coc:
+		case tower_arcade:
+		case tower_sage:
+		case tower_sasso:
+		case tower_champlobby:
+		case tower_aloelab:
+		s = 5
+		break
 	}
 	fmod_event_instance_set_parameter(_sound, "hub", s, false);
 }

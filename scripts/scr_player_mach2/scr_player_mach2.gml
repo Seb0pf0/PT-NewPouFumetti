@@ -240,6 +240,8 @@ function scr_player_mach2()
 			}
 		}
 	}
+	if character !="V"
+	{
 	if (input_buffer_slap > 0 && !key_up && !skateboarding && shotgunAnim == 0 && !global.pistol)
 	{
 		input_buffer_slap = 0;
@@ -264,6 +266,7 @@ function scr_player_mach2()
 		movespeed = hsp;
 		particle_set_scale(particle.highjumpcloud2, xscale, 1);
 		create_particle(x, y, particle.highjumpcloud2, 0);
+	}
 	}
 	if (input_buffer_shoot > 0 && !skateboarding)
 	{

@@ -1,5 +1,5 @@
 pal_swap_init_system(shd_pal_swapper);
-global.roommessage = "PIZZA TOWER ISLAND";
+global.roommessage = "TCTOP Entrance";
 global.leveltosave = "exit";
 global.exitrank = false;
 with (obj_player)

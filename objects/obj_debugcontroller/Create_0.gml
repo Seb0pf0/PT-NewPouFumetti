@@ -310,6 +310,7 @@ if (DEBUG)
 	ds_map_set(state_map, "states.knightpep", 47);
 	ds_map_set(state_map, "states.firemouth", 10);
 	ds_map_set(state_map, "states.ratmount", 191);
+	ds_map_set(state_map, "states.rocket", states.rocket);
 	command_list = ds_list_create();
 	ds_list_add(command_list, DESTROYICE, SHOW_HUD, SHOW_COLLISIONS, PLAYER_ROOM, CAMERA_ZOOM, HARDMODE, PLAYER_SET_STATE, PANIC, ALLTOPPINS, GIVEHEAT, ROOMCHECK);
 	ds_list_add(command_list, SETCOMBO, GIVEKEY, GOTOEDITOR, ALOEXPLOIT, LOADTEST, NOCLIP, THROWARC, HIDETILES, LOCKCAMERA, BOSSINVINCIBLE, UNLOCK_TOPPINS, UNLOCK_BOSS_KEY, SHOW_DEBUG_OVERLAY);
