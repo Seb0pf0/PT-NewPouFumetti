@@ -15,7 +15,9 @@ if (state == states.titlescreen)
 	w += pad;
 	h += pad;
 	yy = (SCREEN_HEIGHT / 2) + (h / 2);
-	draw_rectangle_color((SCREEN_WIDTH / 2) - (w / 2), (SCREEN_HEIGHT / 2) - (h / 2), (SCREEN_WIDTH / 2) + (w / 2), yy, 0, 0, 0, 0, false);
+    draw_set_colour(c_black)
+    draw_set_alpha(0.5)
+    draw_roundrect((SCREEN_WIDTH / 2) - (w / 2), (SCREEN_HEIGHT / 2) - (h / 2), (SCREEN_WIDTH / 2) + (w / 2), yy,false);
 	yy -= (pad / 2);
 	draw_set_valign(2);
 	draw_set_halign(1);

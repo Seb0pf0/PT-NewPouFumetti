@@ -3,10 +3,16 @@ switch (state)
 	case states.titlescreen:
 		if (!instance_exists(obj_fadeout))
 		{
-			if (playerid.key_up2)
-				selected++;
 			if (playerid.key_down2)
+			{
 				selected--;
+				 sound_play("event:/sfx/ui/step")
+				}
+			if (playerid.key_up2)
+			{
+				selected++;
+				 sound_play("event:/sfx/ui/step")
+				}
 			selected = clamp(selected, 0, array_length(hub_array) - 1);
 			if (playerid.key_jump2)
 			{
@@ -31,6 +37,7 @@ switch (state)
 							if (other.isgustavo)
 								state = states.ratmount;
 							movespeed = 0;
+							vsp = 0
 						}
 					}
 					instance_create(x, y, obj_fadeout);
@@ -42,6 +49,12 @@ switch (state)
 						state = states.normal;
 				}
 			}
+				else if (playerid.key_slap2)
+				{
+					state = states.normal;
+					with (obj_player)
+						state = states.normal;
+				}
 		}
 		break;
 }

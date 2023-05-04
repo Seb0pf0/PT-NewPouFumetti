@@ -284,7 +284,7 @@ function state_player_normal()
 	{
 		if (!instance_exists(obj_dialoguebox))
 		{
-		if ((key_jump || (input_buffer_jump > 0 && !key_attack && vsp > 0)) && !key_down )
+		if ((key_jump || (input_buffer_jump > 0 && !key_attack && vsp > 0)) && !key_down)
 		{
 			input_buffer_jump = 0;
 			scr_fmod_soundeffect(jumpsnd, x, y);

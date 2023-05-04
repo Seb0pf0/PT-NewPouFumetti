@@ -1,3 +1,4 @@
+sound_play("event:/sfx/pto/diagopen")
 con = -1;
 size = 0;
 

@@ -19,7 +19,7 @@ if (!place_meeting(x, y, obj_doorblocked))
 	{
 		if (key_up && !instance_exists(obj_jumpscare) && grounded && (((state == states.ratmount || state == states.ratmountbounce) && brick) || state == states.normal || state == states.mach1 || state == states.mach2 || state == states.pogo || state == states.mach3 || state == states.Sjumpprep) && y == (other.y + 50) && !instance_exists(obj_noisesatellite) && !instance_exists(obj_fadeout) && state != states.door && state != states.comingoutdoor)
 		{
-			if (room == tower_5)
+			if (room == tower_top)
 			{
 				obj_player1.backtohubroom = room;
 				obj_player1.backtohubstartx = obj_player1.x;

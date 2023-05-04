@@ -62,3 +62,5 @@ if (sprite_index == spr_cheftaskdoor)
 	if (!_found)
 		sprite_index = spr_cheftaskdoor_gold;
 }
+if (variable_instance_exists(id, "target_x") && variable_instance_exists(id, "target_y"))
+    compatibility = 1

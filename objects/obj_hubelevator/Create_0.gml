@@ -49,3 +49,4 @@ switch (room)
 }
 if (global.panic)
 instance_destroy()
+sel = 0

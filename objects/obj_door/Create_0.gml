@@ -21,3 +21,4 @@ if (room == tower_top)
 			instance_create(x + 50, y + 96, obj_rubble);
 	}
 }
+compatibility = 0
