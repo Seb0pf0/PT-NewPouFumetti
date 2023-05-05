@@ -90,3 +90,7 @@ if is_method(donefunc)
 
 if is_method(func)
 	func();
+if (object_index = obj_npc_sign && sprite_index = spr_snicknpc_idle && obj_player1.x > obj_npc_sign.x)
+image_xscale = 1
+else
+image_xscale = -1 
