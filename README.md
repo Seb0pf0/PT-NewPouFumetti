@@ -5,8 +5,5 @@
  
  For now this is mod is worked on only by Seba
 
-Since the bank file is too big for Github just use the vanilla pt one
-
-Be sure to place it in datafiles/sound/Desktop
-
+the game uses the cheesed up! bank files, so just get the banks from 0.6
  
