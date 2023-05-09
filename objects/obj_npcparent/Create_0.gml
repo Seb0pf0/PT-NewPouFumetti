@@ -20,3 +20,4 @@ faceplayer = true;
 basespr = sprite_index;
 talkspr = -1;
 depth = 10;
+scr_create_uparrowhitbox()

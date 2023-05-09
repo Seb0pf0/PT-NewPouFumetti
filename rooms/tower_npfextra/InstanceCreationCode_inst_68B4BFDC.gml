@@ -1,1 +1,1 @@
-dialogue = ["Pizza Tower NPF, last updated: 12/1/2022"]
+dialogue = ["\nRIP PizzaTower NPF 2020-22\nOverall this one is miles better"]
