@@ -52,3 +52,7 @@ if is_method(donefunc)
 
 if is_method(func)
 	func();
+	if (obj_player1.x > obj_npc_snick.x)
+image_xscale = 1
+else
+image_xscale = -1 

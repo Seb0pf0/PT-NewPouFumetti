@@ -45,6 +45,7 @@
     {"name":"inst_73733F84","path":"rooms/tower_npfextra/tower_npfextra.yy",},
     {"name":"inst_57EFC881","path":"rooms/tower_npfextra/tower_npfextra.yy",},
     {"name":"inst_18E696B1","path":"rooms/tower_npfextra/tower_npfextra.yy",},
+    {"name":"inst_68B4BFDC","path":"rooms/tower_npfextra/tower_npfextra.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -87,6 +88,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73733F84","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hotmetalblock","path":"objects/obj_hotmetalblock/obj_hotmetalblock.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":-384.0,"y":1024.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57EFC881","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_doorA","path":"objects/obj_doorA/obj_doorA.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":1248.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18E696B1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hallway","path":"objects/obj_hallway/obj_hallway.yy",},"properties":[],"rotation":0.0,"scaleX":-2.0,"scaleY":1.5,"x":-64.0,"y":1184.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_68B4BFDC","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_npc_sign","path":"objects/obj_npc_sign/obj_npc_sign.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":400.0,"y":1216.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_3E650C3D","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"bg_npfextra","path":"sprites/bg_npfextra/bg_npfextra.yy",},"x":0.0,"y":0.0,},

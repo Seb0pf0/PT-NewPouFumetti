@@ -105,7 +105,7 @@ if (other.state != (98 << 0) && other.state != (290 << 0))
             other.transfotip = id
             text = (("{s}" + other.msg) + "/")
             alarm[0] = 1
-            fadeout_speed = 0.025
+            fadeout_speed = 0.075
             fadeout = 0
         }
     }
