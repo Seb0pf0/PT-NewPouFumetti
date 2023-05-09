@@ -740,6 +740,7 @@
     {"name":"tower_3up","order":3,"path":"rooms/tower_3up/tower_3up.yy",},
     {"name":"tower_4up","order":2,"path":"rooms/tower_4up/tower_4up.yy",},
     {"name":"tower_pizzafacehall","order":6,"path":"rooms/tower_pizzafacehall/tower_pizzafacehall.yy",},
+    {"name":"obj_npc_snick","order":4,"path":"objects/obj_npc_snick/obj_npc_snick.yy",},
     {"name":"mansion_2","order":12,"path":"rooms/mansion_2/mansion_2.yy",},
     {"name":"tower_johngutterhall","order":1,"path":"rooms/tower_johngutterhall/tower_johngutterhall.yy",},
     {"name":"oven_1","order":2,"path":"rooms/oven_1/oven_1.yy",},
