@@ -1,4 +1,5 @@
-if faceplayer
+event_inherited()
+/*if faceplayer
 {
 	if x != obj_player1.x
 	&& obj_player1.y <= y + 100 && obj_player1.y >= y - 150

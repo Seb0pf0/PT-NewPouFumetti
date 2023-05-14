@@ -20,13 +20,14 @@ switch state
 			with (obj_music)
 				fmod_event_instance_set_parameter(music.event, "state", 1, 1)
 		}
+		/*
 		if (jumpscarecount > 2400 && (!instance_exists(obj_mainmenu_jumpscare)))
 		{
 			instance_create(480, 270, obj_mainmenu_jumpscare)
 			fmod_event_one_shot("event:/sfx/enemies/jumpscare")
 		}
+		*/
 		break
-	
 	case states.transition:
 		if (darkbuffer > 0)
 			darkbuffer--

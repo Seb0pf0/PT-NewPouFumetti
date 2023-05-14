@@ -76,7 +76,7 @@ if con == 1
 }
 
 // restart
-if keyboard_check_pressed(ord("R")) && debug
+if keyboard_check_pressed(ord("R")) 
 {
 	t = 0;
 	con = 0;

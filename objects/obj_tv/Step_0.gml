@@ -1,4 +1,4 @@
-tv_x = SCREEN_WIDTH - 115;
+obj_tv_x = SCREEN_WIDTH - 115;
 tv_y = 80;
 timer_xstart = (SCREEN_WIDTH / 2) + timer_xplus;
 timer_x = timer_xstart;
