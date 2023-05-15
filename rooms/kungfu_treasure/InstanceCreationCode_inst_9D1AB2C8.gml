@@ -1,2 +1,1 @@
-sprgot = 1529
-spridle = 1527
+image_index = 12;

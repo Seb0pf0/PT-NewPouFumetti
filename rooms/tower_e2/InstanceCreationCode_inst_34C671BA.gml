@@ -1,2 +1,2 @@
 level = "kungfu";
-treasureindex = 15;
+treasureindex = 12;

@@ -1,5 +1,5 @@
 pal_swap_init_system(3)
-global.roommessage = "TROUBLES IN THE MAIN ZONE"
+global.roommessage = "Troubles in the main road"
 if (global.panic)
 {
 	var lay = layer_get_id("Backgrounds_still1");

@@ -1,5 +1,5 @@
 pal_swap_init_system(3)
-global.roommessage = "INTO THE HIGHWAY"
+global.roommessage = "Into the highway"
 if (global.panic)
 {
 	var lay = layer_get_id("Backgrounds_stillH1");

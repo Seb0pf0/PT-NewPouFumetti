@@ -1,5 +1,5 @@
 pal_swap_init_system(shd_pal_swapper)
-global.roommessage = "TASTE MY BLACKBELT"
+global.roommessage = "Taste my blackbelt"
 if (global.panic)
 {
 	var lay = layer_get_id("Backgrounds_stillH1");

@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "kungfu_3",
-  "creationCodeFile": "${project_dir}/rooms/kungfu_3/RoomCreationCode.gml",
+  "creationCodeFile": "rooms/kungfu_3/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,

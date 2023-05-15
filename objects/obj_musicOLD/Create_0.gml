@@ -24,7 +24,7 @@ secretpos = 0
 normalpos = 0
 stopmusic = 0
 specialstop = 0
-//room_arr = [[mansion_1, mu_mansion, mu_mansion, 1]]
+room_arr = [[mansion_1, mu_mansion, mu_mansion, 1]]
 with (obj_music)
 {
     if (music != -4)

@@ -1,6 +1,6 @@
 pal_swap_init_system(shd_pal_swapper)
 global.gameframe_caption_text = "Martial Arts in the Pizza Tower.";
-global.roommessage = "Pizza Tower at Chinatown"
+global.roommessage = "PIZZA TOWER AT CHINATOWN"
 if (!obj_secretmanager.init)
 {
 	trace("secret init");
