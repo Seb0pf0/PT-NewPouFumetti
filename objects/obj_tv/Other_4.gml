@@ -173,7 +173,7 @@ switch (room)
 		global.srank = 15000;
 		break;
 	case kungfu_1:
-		global.srank = 25500;
+		global.srank = 24000;
 		break;
 	case mansion_1:
 		global.srank = 20000;
