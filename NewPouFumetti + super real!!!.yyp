@@ -4671,6 +4671,7 @@
     {"id":{"name":"spr_rank_quick","path":"sprites/spr_rank_quick/spr_rank_quick.yy",},},
     {"id":{"name":"spr_pressdash","path":"sprites/spr_pressdash/spr_pressdash.yy",},},
     {"id":{"name":"spr_pressslap","path":"sprites/spr_pressslap/spr_pressslap.yy",},},
+    {"id":{"name":"scr_crashlog","path":"scripts/scr_crashlog/scr_crashlog.yy",},},
     {"id":{"name":"spr_pressjump","path":"sprites/spr_pressjump/spr_pressjump.yy",},},
     {"id":{"name":"spr_pressdown","path":"sprites/spr_pressdown/spr_pressdown.yy",},},
     {"id":{"name":"spr_pizzaballblock_debris","path":"sprites/spr_pizzaballblock_debris/spr_pizzaballblock_debris.yy",},},
