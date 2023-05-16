@@ -1360,6 +1360,7 @@
     {"id":{"name":"obj_pizzasonacollect","path":"objects/obj_pizzasonacollect/obj_pizzasonacollect.yy",},},
     {"id":{"name":"obj_goalsign","path":"objects/obj_goalsign/obj_goalsign.yy",},},
     {"id":{"name":"obj_flushcount","path":"objects/obj_flushcount/obj_flushcount.yy",},},
+    {"id":{"name":"obj_timeattackswitch","path":"objects/obj_timeattackswitch/obj_timeattackswitch.yy",},},
     {"id":{"name":"obj_siren","path":"objects/obj_siren/obj_siren.yy",},},
     {"id":{"name":"obj_exitdoorsign","path":"objects/obj_exitdoorsign/obj_exitdoorsign.yy",},},
     {"id":{"name":"obj_plusseconds","path":"objects/obj_plusseconds/obj_plusseconds.yy",},},

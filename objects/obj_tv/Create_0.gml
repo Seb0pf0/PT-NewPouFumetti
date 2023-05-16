@@ -79,3 +79,7 @@ hand_index = 0;
 bar_surface = -4;
 barfill_x = 0;
 showtime_buffer = 0;
+global.sranktime = 0
+global.aranktime = 0
+global.branktime = 0
+global.cranktime = 0

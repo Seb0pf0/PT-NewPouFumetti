@@ -1,5 +1,7 @@
 function scr_savescore(level)
 {
+	if !global.timeattack
+	{
 	if ((global.collect + global.collectN) >= global.srank)
 	{
 		global.rank = "s";
@@ -16,6 +18,25 @@ function scr_savescore(level)
 		global.rank = "c";
 	else
 		global.rank = "d";
+		}
+	 else
+	if (global.totaltime > global.sranktime)
+	{
+		global.rank = "s";
+		if (scr_is_p_rank_timeattack())
+			global.rank = "p";
+		if (global.snickchallenge == 1)
+			global.SAGEsnicksrank = true;
+	}
+	else if ((global.totaltime > global.aranktime)
+		global.rank = "a";
+	else if ((global.totaltime > global.branktime)
+		global.rank = "b"
+	else if ((global.totaltime > global.cranktime)
+		global.rank = "c"
+	else
+		global.rank = "d";
+		
 	scr_play_rank_music();
 	ini_open_from_string(obj_savesystem.ini_str);
 	ini_write_real("Attempts", level, ini_read_real("Attempts", level, 0) + global.levelattempts + 1);
