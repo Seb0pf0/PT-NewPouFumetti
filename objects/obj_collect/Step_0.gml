@@ -6,8 +6,6 @@ if (place_meeting(x, y, obj_secretbigblock) || place_meeting(x, y, obj_shotgunbl
 	visible = false;
 else
 	visible = true;
-if (global.timeattack == 1)
-	instance_destroy();
 if (place_meeting(x, y, obj_destructibles) || place_meeting(x, y, obj_iceblock_breakable))
 	depth = 102;
 else

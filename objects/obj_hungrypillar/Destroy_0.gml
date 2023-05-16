@@ -21,10 +21,7 @@ if (ds_list_find_index(global.saveroom, id) == -1 && global.snickchallenge == 0)
 	global.enemykilled += 1;
 	global.combotime = 60;
 	if (global.timeattack)
-	{
-	global.tassave = global.taseconds
-	global.tamsave = global.taminutes
-	}
+    global.timetosave = global.totaltime
 	global.fill = 4000;
 	notification_push(notifs.hungrypillar_dead, [room]);
 	

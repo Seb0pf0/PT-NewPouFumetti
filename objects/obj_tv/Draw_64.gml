@@ -78,7 +78,7 @@ draw_set_halign(1);
 	if (global.timeattack)
 	{
 	draw_set_font(lang_get_font("smallfont"));
-	draw_text(200, 140, concat("FOR S RANK: ", global.sranktime))
+	draw_text(180, 130, concat("FOR S RANK: ", global.sranktime))
 	}
 if (global.panic)
 {

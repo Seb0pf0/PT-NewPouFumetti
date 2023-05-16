@@ -76,9 +76,7 @@ if (global.panic || instance_exists(obj_wartimer))
 				global.laps++;
 				global.lap = true;
 				if global.timeattack
-				global.taseconds = global.tassave
-				global.taminutes = global.tamsave
-				global.totaltime = ((global.taminutes * 60) + global.taseconds)
+				global.totaltime = global.timetosave
 				instance_create(0, 0, obj_fadeout);
 			}
 		}
