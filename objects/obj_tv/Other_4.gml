@@ -108,7 +108,7 @@ switch (room)
 {
 	case entrance_1:
 		global.srank = 16000;
-		global.sranktime = 160
+		global.sranktime = 145
 		break;
 	case medieval_1:
 		global.srank = 20000;
@@ -199,5 +199,8 @@ switch (room)
 global.arank = floor(global.srank / 2);
 global.brank = floor(global.arank / 2);
 global.crank = floor(global.brank / 2);
+global.aranktime = floor(global.srank * 2);
+global.branktime = floor(global.srank * 3);
+global.cranktime = floor(global.srank * 4);
 if (room == custom_lvl_room)
 	alarm[1] = 4;
