@@ -22,6 +22,7 @@
     {"name":"inst_A4ED4BA3","path":"rooms/tower_johngutterhall/tower_johngutterhall.yy",},
     {"name":"inst_3990B91B","path":"rooms/tower_johngutterhall/tower_johngutterhall.yy",},
     {"name":"inst_BE442783","path":"rooms/tower_johngutterhall/tower_johngutterhall.yy",},
+    {"name":"inst_7E96EE1B","path":"rooms/tower_johngutterhall/tower_johngutterhall.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -53,6 +54,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A4ED4BA3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_slope","path":"objects/obj_slope/obj_slope.yy",},"properties":[],"rotation":0.0,"scaleX":-3.0,"scaleY":2.0,"x":1216.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3990B91B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_slope","path":"objects/obj_slope/obj_slope.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":2.0,"x":544.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_BE442783","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_geromeexit","path":"objects/obj_geromeexit/obj_geromeexit.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":910.0,"y":626.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E96EE1B","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Hranksign","path":"objects/obj_Hranksign/obj_Hranksign.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1056.0,"y":640.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_BG","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":33,"SerialiseWidth":60,"TileCompressedData":[
 -605,0,12,200,201,202,203,204,205,206,207,208,209,210,211,-127,0,2,707,708,-58,0,2,727,728,-306,0,3,704,705,706,-57,0,3,724,725,726,-45,0,2,747,748,-10,0,3,744,745,746,-211,0,12,440,441,442,443,444,445,446,447,448,

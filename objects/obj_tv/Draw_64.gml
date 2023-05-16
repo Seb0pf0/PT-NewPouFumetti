@@ -75,6 +75,11 @@ surface_reset_target();
 draw_surface(promptsurface, SCREEN_WIDTH - 610, 0);
 draw_set_font(global.smallnumber_fnt);
 draw_set_halign(1);
+	if (global.timeattack)
+	{
+	draw_set_font(lang_get_font("smallfont"));
+	draw_text(200, 140, concat("FOR S RANK: ", global.sranktime))
+	}
 if (global.panic)
 {
 	var _fill = global.fill;

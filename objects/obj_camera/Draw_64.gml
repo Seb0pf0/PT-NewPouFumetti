@@ -54,6 +54,7 @@ if (obj_player.state != states.dead)
 	reset_shader_fix();
 	draw_sprite_ext(spr_pizzascore, pizzascore_index, hud_xx, hud_yy, 1, 1, 0, c_white, alpha);
 	var _score = global.collect;
+	var _time = global.totaltime
 	if (global.coop)
 		_score += global.collectN;
 	if (_score >= global.crank)
@@ -67,6 +68,8 @@ if (obj_player.state != states.dead)
 	var rx = hud_xx + 142;
 	var ry = hud_yy - 22;
 	var rank_ix = 0;
+	if (!global.timeattack)
+	{
 	if (_score >= global.srank && scr_is_p_rank())
 		rank_ix = 5;
 	else if (_score >= global.srank)
@@ -77,6 +80,20 @@ if (obj_player.state != states.dead)
 		rank_ix = 2;
 	else if (_score >= global.crank)
 		rank_ix = 1;
+		}
+		else
+		{
+	if (_time <= global.sranktime && scr_is_p_rank_timeattack())
+		rank_ix = 5;
+	else if (_time <= global.sranktime)
+		rank_ix = 4;
+	else if (_time <= global.aranktime)
+		rank_ix = 3;
+	else if (_time <= global.branktime)
+		rank_ix = 2;
+	else if (_time <= global.cranktime)
+		rank_ix = 1;
+		}
 	if (previousrank != rank_ix)
 	{
 		var _snd = global.snd_rankup;

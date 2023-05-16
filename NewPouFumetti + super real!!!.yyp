@@ -1654,6 +1654,7 @@
     {"id":{"name":"medieval_4","path":"rooms/medieval_4/medieval_4.yy",},},
     {"id":{"name":"medieval_secret4","path":"rooms/medieval_secret4/medieval_secret4.yy",},},
     {"id":{"name":"medieval_5","path":"rooms/medieval_5/medieval_5.yy",},},
+    {"id":{"name":"obj_timeattackclock","path":"objects/obj_timeattackclock/obj_timeattackclock.yy",},},
     {"id":{"name":"medieval_treasure","path":"rooms/medieval_treasure/medieval_treasure.yy",},},
     {"id":{"name":"medieval_6","path":"rooms/medieval_6/medieval_6.yy",},},
     {"id":{"name":"medieval_secret5","path":"rooms/medieval_secret5/medieval_secret5.yy",},},

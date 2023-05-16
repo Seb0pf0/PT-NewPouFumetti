@@ -4,7 +4,8 @@ if place_meeting(x, y, obj_player)
     {
         if (key_up2 && global.timeattack == 0)
         {
-            global.timeattack = 1
+    obj_timeattack.alarm[1] = 60
+    global.timeattack = 1
 			fmod_event_one_shot_3d("event:/sfx/misc/switchstart", x, y);
 			msg = "ON"
         }

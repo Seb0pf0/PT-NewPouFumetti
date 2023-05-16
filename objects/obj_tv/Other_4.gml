@@ -108,6 +108,7 @@ switch (room)
 {
 	case entrance_1:
 		global.srank = 16000;
+		global.sranktime = 160
 		break;
 	case medieval_1:
 		global.srank = 20000;

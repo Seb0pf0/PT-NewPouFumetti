@@ -1,7 +1,7 @@
-if (global.timeattack == 1 && stop == 0 && !instance_exists(obj_ghostcollectibles)&& (string_copy(room_get_name(room), 1, 5) != "tower"))
+if (global.timeattack == 1 && stop == 0 && !instance_exists(obj_ghostcollectibles))
 {
-	global.taseconds += 1;
-global.totaltime ++
+	global.taseconds +=1;
+    global.totaltime +=1;
 if (global.taseconds > 59)
 	{
 		global.taseconds = 0;

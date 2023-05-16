@@ -20,7 +20,7 @@ function scr_savescore(level)
 		global.rank = "d";
 		}
 	 else
-	if (global.totaltime > global.sranktime)
+	if (global.totaltime < global.sranktime)
 	{
 		global.rank = "s";
 		if (scr_is_p_rank_timeattack())
@@ -28,11 +28,11 @@ function scr_savescore(level)
 		if (global.snickchallenge == 1)
 			global.SAGEsnicksrank = true;
 	}
-	else if ((global.totaltime > global.aranktime)
+	else if (global.totaltime < global.aranktime)
 		global.rank = "a";
-	else if ((global.totaltime > global.branktime)
+	else if (global.totaltime < global.branktime)
 		global.rank = "b"
-	else if ((global.totaltime > global.cranktime)
+	else if (global.totaltime < global.cranktime)
 		global.rank = "c"
 	else
 		global.rank = "d";
@@ -114,6 +114,8 @@ function scr_play_rank_music()
 }
 function scr_write_rank(level)
 {
+if !global.timeattack
+{
 	var _rank = ini_read_string("Ranks", level, "d");
 	var _map = ds_map_create();
 	ds_map_set(_map, "d", 0);
@@ -125,4 +127,19 @@ function scr_write_rank(level)
 	if (ds_map_find_value(_map, global.rank) >= ds_map_find_value(_map, _rank))
 		ini_write_string("Ranks", level, global.rank);
 	ds_map_destroy(_map);
+	}
+	else
+	{
+	var _rank = ini_read_string("TimeRanks", level, "d");
+	var _map = ds_map_create();
+	ds_map_set(_map, "d", 0);
+	ds_map_set(_map, "c", 1);
+	ds_map_set(_map, "b", 2);
+	ds_map_set(_map, "a", 3);
+	ds_map_set(_map, "s", 4);
+	ds_map_set(_map, "p", 5);
+	if (ds_map_find_value(_map, global.rank) >= ds_map_find_value(_map, _rank))
+		ini_write_string("TimeRanks", level, global.rank);
+	ds_map_destroy(_map);
+		}
 }

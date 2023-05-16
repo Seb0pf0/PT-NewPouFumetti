@@ -437,6 +437,7 @@ global.chateauswap = -4;
 global.warcutscene = -4;
 global.pacifistchallenge = 0
 global.veganchallenge = 0
+global.timeattack = 0
 pal_swap_init_system(shd_pal_swapper);
 with (obj_player1)
 	state = states.normal;
