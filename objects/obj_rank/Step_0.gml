@@ -4,8 +4,6 @@ if (global.collect >= global.collectN)
 {
 	if (obj_player1.character == "P" && obj_player1.ispeppino)
 	{
-		if !global.timeattack //temporary, will be removed once TA ranks are added
-		{
 		if (global.rank == "s")
 			sprite_index = spr_rankS;
 		if (global.rank == "a")
@@ -18,9 +16,6 @@ if (global.collect >= global.collectN)
 			sprite_index = spr_rankD;
 		if (global.rank == "p")
 			sprite_index = spr_rankP;
-			}
-			else
-			sprite_index = spr_rankEGGPLANT
 	}
 	else
 	{

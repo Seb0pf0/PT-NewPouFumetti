@@ -112,24 +112,31 @@ switch (room)
 		break;
 	case medieval_1:
 		global.srank = 20000;
+		global.sranktime = 190
 		break;
 	case ruin_1:
 		global.srank = 17000;
+		global.sranktime = 180
 		break;
 	case dungeon_1:
 		global.srank = 18500;
+		global.sranktime = 220
 		break;
 	case badland_1:
 		global.srank = 19500;
+		global.sranktime = 260
 		break;
 	case graveyard_1:
 		global.srank = 20500;
+		global.sranktime = 220
 		break;
 	case saloon_1:
 		global.srank = 20000;
+		global.sranktime = 210
 		break;
 	case farm_2:
 		global.srank = 19000;
+		global.sranktime = 165
 		break;
 	case plage_entrance:
 		global.srank = 23000;
