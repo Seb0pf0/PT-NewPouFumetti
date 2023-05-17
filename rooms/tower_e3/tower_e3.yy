@@ -66,6 +66,7 @@
     {"name":"inst_8557DCA","path":"rooms/tower_e3/tower_e3.yy",},
     {"name":"inst_60CD583D","path":"rooms/tower_e3/tower_e3.yy",},
     {"name":"inst_67EB2F1E","path":"rooms/tower_e3/tower_e3.yy",},
+    {"name":"inst_3AA5C857","path":"rooms/tower_e3/tower_e3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -129,6 +130,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_8557DCA","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_startgate_treasure","path":"objects/obj_startgate_treasure/obj_startgate_treasure.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60CD583D","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_startgate_treasure","path":"objects/obj_startgate_treasure/obj_startgate_treasure.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1568.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_67EB2F1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},"properties":[],"rotation":0.0,"scaleX":5.0,"scaleY":1.0,"x":416.0,"y":448.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3AA5C857","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Hranksign","path":"objects/obj_Hranksign/obj_Hranksign.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1568.0,"y":1056.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":40,"SerialiseWidth":63,"TileCompressedData":[
 -190,129,-61,63,-2,129,65,63,51,142,143,144,145,146,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,144,145,146,142,143,

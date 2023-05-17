@@ -174,6 +174,7 @@ function scr_playerreset()
 		global.timedgatetime = 0;
 		global.taseconds = 0;
 		global.taminutes = 0;
+		global.totaltime = 0;
 		global.key_inv = false;
 		global.pepanimatronic = false;
 		global.shroomfollow = false;

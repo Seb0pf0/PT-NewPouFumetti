@@ -199,8 +199,8 @@ switch (room)
 global.arank = floor(global.srank / 2);
 global.brank = floor(global.arank / 2);
 global.crank = floor(global.brank / 2);
-global.aranktime = floor(global.srank * 2);
-global.branktime = floor(global.srank * 3);
-global.cranktime = floor(global.srank * 4);
+global.aranktime = floor(global.sranktime + (global.sranktime /4));
+global.branktime = floor(global.sranktime + (global.sranktime /3));
+global.cranktime = floor(global.sranktime + (global.sranktime /2));
 if (room == custom_lvl_room)
 	alarm[1] = 4;

@@ -1,0 +1,1 @@
+level = "minigolf"

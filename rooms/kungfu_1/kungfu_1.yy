@@ -97,6 +97,7 @@
     {"name":"inst_4F9AFEBD","path":"rooms/kungfu_1/kungfu_1.yy",},
     {"name":"inst_779D7125","path":"rooms/kungfu_1/kungfu_1.yy",},
     {"name":"inst_2A6DA743","path":"rooms/kungfu_1/kungfu_1.yy",},
+    {"name":"inst_559EA767","path":"rooms/kungfu_1/kungfu_1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -191,6 +192,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F9AFEBD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_escapecollect","path":"objects/obj_escapecollect/obj_escapecollect.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3008.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_779D7125","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_thug_red","path":"objects/obj_thug_red/obj_thug_red.yy",},"properties":[],"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":3008.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2A6DA743","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_thug_red","path":"objects/obj_thug_red/obj_thug_red.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":448.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_559EA767","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_timeattackclock","path":"objects/obj_timeattackclock/obj_timeattackclock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":384.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Foreground1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":25,"SerialiseWidth":141,"TileCompressedData":[
 -2671,-2147483648,2,1538,1539,-139,-2147483648,2,1570,1571,-711,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"tile_kungfu_scout","path":"tilesets/tile_kungfu_scout/tile_kungfu_scout.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},

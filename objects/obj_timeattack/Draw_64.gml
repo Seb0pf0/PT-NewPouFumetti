@@ -1,6 +1,6 @@
 if (global.timeattack == 1)
 {
-	/*
+	
 	if (global.taseconds < 10)
 	{
 		draw_set_font(global.bigfont);
@@ -15,9 +15,10 @@ if (global.timeattack == 1)
 		draw_set_color(c_yellow);
 		draw_text(random_range(1, -1) + 480, random_range(1, -1) + 460, string_hash_to_newline(string(global.taminutes) + ":" + string(global.taseconds)));
 	}
-	*/
+	/*
 			draw_set_font(global.bigfont);
 		draw_set_halign(1);
 		draw_set_color(c_yellow);
 		draw_text(random_range(1, -1) + 480, random_range(1, -1) + 460, global.totaltime);
+		*/
 }

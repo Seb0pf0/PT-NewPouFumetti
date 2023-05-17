@@ -82,6 +82,7 @@
     {"name":"inst_4A63E6E8","path":"rooms/tower_soc/tower_soc.yy",},
     {"name":"inst_5F91010","path":"rooms/tower_soc/tower_soc.yy",},
     {"name":"inst_41998C2E","path":"rooms/tower_soc/tower_soc.yy",},
+    {"name":"inst_6D35191D","path":"rooms/tower_soc/tower_soc.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -161,6 +162,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A63E6E8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_gustavoswitch","path":"objects/obj_gustavoswitch/obj_gustavoswitch.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1780.0,"y":626.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F91010","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_peppinoswitch","path":"objects/obj_peppinoswitch/obj_peppinoswitch.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2094.0,"y":1842.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41998C2E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":1.0,"x":416.0,"y":1152.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6D35191D","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Hranksign","path":"objects/obj_Hranksign/obj_Hranksign.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1504.0,"y":1600.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_21E331A0","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"bg_sagebuilding","path":"sprites/bg_sagebuilding/bg_sagebuilding.yy",},"x":576.0,"y":360.0,},
