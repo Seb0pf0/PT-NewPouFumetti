@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "freezer_12",
-  "creationCodeFile": "${project_dir}/rooms/freezer_12/RoomCreationCode.gml",
+  "creationCodeFile": "rooms/freezer_12/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,

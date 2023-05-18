@@ -156,24 +156,31 @@ switch (room)
 		break;
 	case street_intro:
 		global.srank = 20000;
+		global.sranktime = 290
 		break;
 	case sewer_1:
 		global.srank = 20000;
+		global.sranktime = 300
 		break;
 	case industrial_1:
 		global.srank = 20000;
+		global.sranktime = 220
 		break;
 	case freezer_1:
 		global.srank = 18200;
+		global.sranktime = 280
 		break;
 	case chateau_1:
 		global.srank = 18000;
+		global.sranktime = 215
 		break;
 	case kidsparty_1:
 		global.srank = 22000;
+		global.sranktime = 250
 		break;
 	case war_1:
 		global.srank = 21500;
+		global.sranktime = 200
 		break;
 	case tower_finalhallway:
 		global.srank = 5500;
@@ -190,6 +197,7 @@ switch (room)
 		break;
 	case mansion_1:
 		global.srank = 20000;
+		global.sranktime = 240
 		break;
 	case desert_1:
 		global.srank = 21000;
