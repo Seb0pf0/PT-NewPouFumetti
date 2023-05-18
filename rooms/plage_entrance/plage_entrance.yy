@@ -75,6 +75,7 @@
     {"name":"inst_DBF1581B","path":"rooms/plage_entrance/plage_entrance.yy",},
     {"name":"inst_50B5C683","path":"rooms/plage_entrance/plage_entrance.yy",},
     {"name":"inst_E56834FB","path":"rooms/plage_entrance/plage_entrance.yy",},
+    {"name":"inst_610D33F9","path":"rooms/plage_entrance/plage_entrance.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -147,6 +148,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_DBF1581B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_beachsandparticle","path":"objects/obj_beachsandparticle/obj_beachsandparticle.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":544.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50B5C683","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_nosand","path":"objects/obj_nosand/obj_nosand.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":0.5,"x":1056.0,"y":1440.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_E56834FB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_cheeseslime","path":"objects/obj_cheeseslime/obj_cheeseslime.yy",},"properties":[],"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":1190.0,"y":1650.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_610D33F9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_timeattackclock","path":"objects/obj_timeattackclock/obj_timeattackclock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":1600.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Foreground2","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":64,"SerialiseWidth":63,"TileCompressedData":[
 -4032,0,],"TileDataFormat":1,},"tilesetId":{"name":"tile_beachcavern","path":"tilesets/tile_beachcavern/tile_beachcavern.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},

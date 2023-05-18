@@ -108,47 +108,51 @@ switch (room)
 {
 	case entrance_1:
 		global.srank = 16000;
-		global.sranktime = 145
+		global.sranktime = 125
 		break;
 	case medieval_1:
 		global.srank = 20000;
-		global.sranktime = 190
+		global.sranktime = 180
 		break;
 	case ruin_1:
 		global.srank = 17000;
-		global.sranktime = 180
+		global.sranktime = 170
 		break;
 	case dungeon_1:
 		global.srank = 18500;
-		global.sranktime = 220
+		global.sranktime = 210
 		break;
 	case badland_1:
 		global.srank = 19500;
-		global.sranktime = 260
+		global.sranktime = 250
 		break;
 	case graveyard_1:
 		global.srank = 20500;
-		global.sranktime = 220
+		global.sranktime = 210
 		break;
 	case saloon_1:
 		global.srank = 20000;
-		global.sranktime = 210
+		global.sranktime = 200
 		break;
 	case farm_2:
 		global.srank = 19000;
-		global.sranktime = 165
+		global.sranktime = 155
 		break;
 	case plage_entrance:
 		global.srank = 23000;
+		global.sranktime = 215
 		break;
 	case forest_1:
 		global.srank = 19000;
+		global.sranktime = 280
 		break;
 	case space_1:
 		global.srank = 20000;
+		global.sranktime = 200
 		break;
 	case minigolf_1:
 		global.srank = 23000;
+		global.sranktime = 300
 		break;
 	case street_intro:
 		global.srank = 20000;
@@ -182,12 +186,14 @@ switch (room)
 		break;
 	case kungfu_1:
 		global.srank = 24000;
+		global.sranktime = 290
 		break;
 	case mansion_1:
 		global.srank = 20000;
 		break;
 	case desert_1:
 		global.srank = 21000;
+		global.sranktime = 225
 		break;
 	
 	case boss_pepperman:
