@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "shd_rank",
   "parent": {
-    "name": "Shaders",
-    "path": "folders/Shaders.yy",
+    "name": "Rank colors",
+    "path": "folders/Shaders/Rank colors.yy",
   },
   "type": 1,
 }

@@ -12,7 +12,6 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Estensioni","folderPath":"folders/Estensioni.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
@@ -63,7 +62,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Objects/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Visuals","folderPath":"folders/Objects/Visuals.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle","folderPath":"folders/Objects/Visuals/Particle.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Oggetti","folderPath":"folders/Oggetti.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Bosses","folderPath":"folders/Rooms/Bosses.yy",},
@@ -448,6 +446,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rank colors","folderPath":"folders/Shaders/Rank colors.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},
