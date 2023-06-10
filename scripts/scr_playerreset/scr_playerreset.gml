@@ -175,6 +175,7 @@ function scr_playerreset()
 		global.taseconds = 0;
 		global.taminutes = 0;
 		global.totaltime = 0;
+		global.timetosave = 0
 		global.key_inv = false;
 		global.pepanimatronic = false;
 		global.shroomfollow = false;
@@ -188,6 +189,7 @@ function scr_playerreset()
 		global.hats = 0;
 		global.extrahats = 0;
 		global.ammo = 0;
+		global.timeattack = 0
 		global.treasure = false;
 		global.combo = 0;
 		global.combotime = 0;

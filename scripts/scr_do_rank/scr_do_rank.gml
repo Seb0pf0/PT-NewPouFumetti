@@ -7,8 +7,10 @@ function scr_is_p_rank()
 }
 function scr_is_p_rank_timeattack()
 {
-	if (global.leveltosave != "exit")
+	if (global.leveltosave != "war")
 		return global.lap && global.laps >=2 && global.shroomfollow = 1 && global.cheesefollow = 1 && global.tomatofollow = 1 && global.sausagefollow = 1 && global.pineapplefollow = 1
+		else 
+		return global.lap && global.shroomfollow = 1 && global.cheesefollow = 1 && global.tomatofollow = 1 && global.sausagefollow = 1 && global.pineapplefollow = 1
 }
 function scr_do_rank(showtoppins = true, boss = false)
 {

@@ -184,12 +184,15 @@ switch (room)
 		break;
 	case tower_finalhallway:
 		global.srank = 5500;
+		global.sranktime = 0
 		break;
 	case strongcold_10:
 		global.srank = 12000;
+		global.sranktime = 0
 		break;
 	case floor3_room0:
 		global.srank = 15000;
+		global.sranktime = 0
 		break;
 	case kungfu_1:
 		global.srank = 24000;

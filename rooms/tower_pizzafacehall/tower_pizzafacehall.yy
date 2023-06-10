@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "tower_pizzafacehall",
-  "creationCodeFile": "${project_dir}/rooms/tower_pizzafacehall/RoomCreationCode.gml",
+  "creationCodeFile": "rooms/tower_pizzafacehall/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
