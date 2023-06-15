@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_npf_plus_logo",
-    "path": "sprites/spr_npf_plus_logo/spr_npf_plus_logo.yy",
+    "name": "spr_minirpc",
+    "path": "sprites/spr_minirpc/spr_minirpc.yy",
   },
   "spriteMaskId": null,
   "visible": false,
