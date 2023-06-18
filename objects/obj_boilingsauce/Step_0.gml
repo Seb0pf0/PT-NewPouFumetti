@@ -18,7 +18,7 @@ with (playerid)
 		image_index = 0;
 		movespeed = hsp;
 		fmod_event_one_shot_3d("event:/sfx/pep/burn", x, y);
-		if (!fmod_event_instance_is_playing(global.snd_fireass))
-			fmod_event_instance_play(global.snd_fireass);
+		if (!fmod_event_instance_is_playing("event:/sfx/pep/fireass"))
+			fmod_event_instance_play("event:/sfx/pep/fireass");
 	}
 }
