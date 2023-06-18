@@ -80,26 +80,9 @@ add_music(entrance_1, "event:/music/w1/entrance", "event:/music/w1/entrancesecre
 	return;
 }
 )
+add_music(oven_1, "event:/music/wex3/oven",  "event:/music/w1/medievalsecret", false);
+add_music(champ_1, "event:/music/wsoc/champ",  "event:/music/w1/medievalsecret", false);
 add_music(mansion_1, "event:/music/wex3/mansion",  "event:/music/w1/medievalsecret", false);
-/*
-add_music(mansion_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_3410_gml_Object_obj_music_Create_0
-{
-	s = -1
-	switch room
-	{
-		case mansion_1:
-			s = 0
-			break
-		case mansion_1a:
-            s = 2
-			break
-		}	
-	 if (s != -1)
-		fmod_event_instance_set_parameter(event, "state", s, 1)
-	return;
-}
-)
-*/
 add_music(medieval_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret)
 {
 	s = -1
@@ -314,24 +297,28 @@ add_music(industrial_1, "event:/music/w4/industrial", "event:/music/w4/industria
 	return;
 }
 )
-add_music(sewer_1, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
-add_music(floor4_room0, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
-//add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0)
-add_music(kungfu_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0, function(room, event)
+//add_music(sewer_1, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
+add_music(sewer_1, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0, function(room, event, event_secret)
 {
-	if (room == street_1 || room == street_house3)
-		fmod_event_instance_set_parameter(event, "state", 0, 1)
-	else if (room == street_bacon)
-		fmod_event_instance_set_parameter(event, "state", 2, 1)
-		else if (room == kungfu_1)
-		fmod_event_instance_set_parameter(event, "state", 1, 1)
-	if (room == street_jail)
-		fmod_set_parameter("musicmuffle", 1, 0)
-	else
-		fmod_set_parameter("musicmuffle", 0, 0)
+	s = -1
+	switch room
+	{
+		case sewer_1:
+		case sewer_4:
+			s = 0
+			break
+		case sewer_5:
+			s = 1
+			break
+	}
+
+	if (s != -1)
+		fmod_event_instance_set_parameter(event, "state", s, 1)
 	return;
 }
 )
+add_music(floor4_room0, "event:/music/w4/sewer", "event:/music/w4/sewersecret", 0)
+add_music(kungfu_1, "event:/music/wex2/kungfu", "event:/music/w4/streetsecret", 0)
 add_music(street_1, "event:/music/w4/street", "event:/music/w4/streetsecret", 0, function(room, event)
 {
 	if (room == street_1 || room == street_house3)
@@ -349,4 +336,4 @@ add_music(chateau_1, "event:/music/w5/chateau", "event:/music/w1/medievalsecret"
 add_music(kidsparty_1, "event:/music/w5/kidsparty", "event:/music/w5/kidspartysecret", 0)
 add_music(war_1, "event:/music/w5/war", "event:/music/w5/warsecret", 0)
 //add_music(top_2, "event:/music/w5/chateau", "event:/music/w1/medievalsecret", 0)
-add_music(top_2, "event:/music/soundtest/notime", -4, false);
+add_music(top_2, "event:/music/wsoc/champ", -4, false);

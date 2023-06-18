@@ -18,7 +18,7 @@ else
 	kidsparty_lightning = false;
 	dark_lightning = false;
 }
-if (room == dungeon_5 || room == dungeon_6)
+if (room == dungeon_5 || room == dungeon_6 ||room =oven_intro1 || room = oven_intro2)
 {
 	use_dark = true;
 	dark_alpha = 1;
