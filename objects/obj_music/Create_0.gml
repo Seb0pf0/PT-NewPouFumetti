@@ -40,7 +40,7 @@ add_music(tower_e3, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state
 add_music(tower_4, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_5, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_top, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
-add_music(tower_top2, "event:/sfx/misc/windloop", -4, 0)
+add_music(tower_top2, "event:/music/tophub", -4, 0)
 add_music(rm_kys, "event:/sfx/misc/windloop", -4, 0)
 add_music(tower_soc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
 add_music(tower_coc, "event:/music/hub", "event:/music/pillarmusic", 0, hub_state)
@@ -72,6 +72,7 @@ add_music(boss_pizzaface, "event:/music/boss/pizzaface", -4, false, function(roo
 		fmod_event_instance_set_parameter(parameter, "state", 5, false);
 });
 add_music(exit_1, "event:/music/soundtest/notime", -4, false);
+add_music(tbd_1, "event:/music/wsoc/tbd", -4, false);
 add_music(entrance_1, "event:/music/w1/entrance", "event:/music/w1/entrancesecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_3195_gml_Object_obj_music_Create_0
 {
 	var s = 0
@@ -79,6 +80,8 @@ add_music(entrance_1, "event:/music/w1/entrance", "event:/music/w1/entrancesecre
 	return;
 }
 )
+add_music(mansion_1, "event:/music/wex3/mansion",  "event:/music/w1/medievalsecret", false);
+/*
 add_music(mansion_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret) //anon_gml_Object_obj_music_Create_0_3410_gml_Object_obj_music_Create_0
 {
 	s = -1
@@ -96,6 +99,7 @@ add_music(mansion_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret
 	return;
 }
 )
+*/
 add_music(medieval_1, "event:/music/w1/medieval", "event:/music/w1/medievalsecret", 0, function(room, event, event_secret)
 {
 	s = -1

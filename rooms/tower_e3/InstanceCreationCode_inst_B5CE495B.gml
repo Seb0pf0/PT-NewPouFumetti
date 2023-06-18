@@ -1,0 +1,1 @@
+text = "There is everything i need in this kitchen... i might explode by how much food i'm eating!"

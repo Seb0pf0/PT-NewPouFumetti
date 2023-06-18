@@ -63,6 +63,7 @@ if con == 1
 			// done!
 			if curdiag >= array_length(dialogue)
 			{
+				sound_play("event:/sfx/ui/diagoclose")
 				con = 2;
 			}
 		}
@@ -71,6 +72,7 @@ if con == 1
 	// close
 	if key_taunt && canskip
 	{
+		sound_play("event:/sfx/ui/diagoclose")
 		con = 2;
 	}
 }
