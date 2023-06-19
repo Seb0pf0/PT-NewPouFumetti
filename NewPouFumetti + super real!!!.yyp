@@ -457,7 +457,6 @@
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"no_swers.txt","CopyToMask":-1,"filePath":"datafiles/lang",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Master.bank","CopyToMask":-1,"filePath":"datafiles/sound/Desktop",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Master.strings.bank","CopyToMask":-1,"filePath":"datafiles/sound/Desktop",},
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"midis.bank","CopyToMask":-1,"filePath":"datafiles/sound/Desktop",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"music.bank","CopyToMask":-1,"filePath":"datafiles/sound/Desktop",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sfx.bank","CopyToMask":-1,"filePath":"datafiles/sound/Desktop",},
   ],
@@ -7166,6 +7165,7 @@
     {"id":{"name":"spr_clerk","path":"sprites/spr_clerk/spr_clerk.yy",},},
     {"id":{"name":"spr_cityclown","path":"sprites/spr_cityclown/spr_cityclown.yy",},},
     {"id":{"name":"spr_achievement_badland","path":"sprites/spr_achievement_badland/spr_achievement_badland.yy",},},
+    {"id":{"name":"tower_freerun","path":"rooms/tower_freerun/tower_freerun.yy",},},
     {"id":{"name":"spr_towerending_bosses","path":"sprites/spr_towerending_bosses/spr_towerending_bosses.yy",},},
     {"id":{"name":"spr_intro_surprisedsplit2","path":"sprites/spr_intro_surprisedsplit2/spr_intro_surprisedsplit2.yy",},},
     {"id":{"name":"spr_ratblock1_bump","path":"sprites/spr_ratblock1_bump/spr_ratblock1_bump.yy",},},
@@ -8242,6 +8242,7 @@
     {"roomId":{"name":"rm_kys","path":"rooms/rm_kys/rm_kys.yy",},},
     {"roomId":{"name":"kungfu_1","path":"rooms/kungfu_1/kungfu_1.yy",},},
     {"roomId":{"name":"tower_e3","path":"rooms/tower_e3/tower_e3.yy",},},
+    {"roomId":{"name":"tower_freerun","path":"rooms/tower_freerun/tower_freerun.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},

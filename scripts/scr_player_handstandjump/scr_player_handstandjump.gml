@@ -5,6 +5,17 @@ function scr_player_handstandjump()
 	move = key_left + key_right;
 	momemtum = true;
 	dir = xscale;
+	    if (key_slap2 && ispeppino)
+    {
+        fmod_event_one_shot_3d("event:/sfx/pep/suplexdash", x, y)
+        sprite_index = spr_player_faceplant
+        image_index = 0
+        image_speed = 0.43
+        state = (124 << 0)
+        movespeed += 3
+        with (instance_create(x, y, obj_jumpdust))
+            image_xscale = other.xscale
+    }
 	if (global.attackstyle != 3)
 	{
 		if (movespeed < 10)

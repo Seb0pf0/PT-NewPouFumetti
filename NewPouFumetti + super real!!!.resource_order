@@ -1085,6 +1085,7 @@
     {"name":"spr_ratballoon","order":2,"path":"sprites/spr_ratballoon/spr_ratballoon.yy",},
     {"name":"spr_ratballooneffect","order":1,"path":"sprites/spr_ratballooneffect/spr_ratballooneffect.yy",},
     {"name":"tilespr_kungfu_scout","order":13,"path":"sprites/tilespr_kungfu_scout/tilespr_kungfu_scout.yy",},
+    {"name":"tower_freerun","order":8,"path":"rooms/tower_freerun/tower_freerun.yy",},
     {"name":"tile_interior","order":10,"path":"tilesets/tile_interior/tile_interior.yy",},
     {"name":"tileset_tile_citydark","order":9,"path":"tilesets/tileset_tile_citydark/tileset_tile_citydark.yy",},
     {"name":"tile_jail","order":8,"path":"tilesets/tile_jail/tile_jail.yy",},

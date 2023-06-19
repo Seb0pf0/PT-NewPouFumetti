@@ -1,2 +1,2 @@
-targetRoom = tower_npfhq
-msg = "Devs House WIP"
+targetRoom = tower_freerun
+msg = "Freerun"
