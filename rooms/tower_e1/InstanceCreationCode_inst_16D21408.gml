@@ -1,0 +1,1 @@
+text = "This temple has been abbondoned many centuries ago... wonder if there still a way to get the secret treasure..."

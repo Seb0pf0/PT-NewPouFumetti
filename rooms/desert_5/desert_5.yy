@@ -313,7 +313,7 @@
   ],
   "parent": {
     "name": "Desert",
-    "path": "folders/Rooms/Levels/WorldChamp/Desert.yy",
+    "path": "folders/Rooms/Levels/WorldSOC/Desert.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

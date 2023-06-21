@@ -48,7 +48,7 @@
   ],
   "parent": {
     "name": "TBD",
-    "path": "folders/Rooms/Levels/WorldChamp/TBD.yy",
+    "path": "folders/Rooms/Levels/WorldSOC/TBD.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

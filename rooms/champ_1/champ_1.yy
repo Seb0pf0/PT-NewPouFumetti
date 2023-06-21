@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Champ",
-    "path": "folders/Rooms/Levels/WorldChamp/Champ.yy",
+    "path": "folders/Rooms/Levels/WorldSOC/Champ.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
