@@ -1,7 +1,7 @@
 /// @description Updates the Score and room name
 
 var r = string_letters(room_get_name(room));
-if (r != "towertutorial" && string_copy(r, 1, 5) == "tower")
+if (r != "towertutorial" && string_copy(r, 1, 5) == "tower" && !global.panic)
 {
 var logo_set = "large_image"
 np_setpresence ("Lobby",global.roommessage, "large_image", "");
